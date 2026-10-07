@@ -1,0 +1,23 @@
+<div class="wrap">
+  <nav class="crumbs" aria-label="Breadcrumb"><ol><li>{{{crumbs}}}</li><li aria-current="page">{{title}}</li></ol></nav>
+</div>
+<header class="wrap field-hero">
+  <div class="field-hero-copy">
+    <p class="eyebrow">Research field</p>
+    <h1>{{title}}</h1>
+    <p class="lede">{{summary}}</p>
+  </div>
+  <div class="field-art">{{{art}}}</div>
+</header>
+<div class="wrap field-main">
+  <section class="section-tight prose">
+    <h2 class="visually-hidden">About this field</h2>
+    <p>{{body}}</p>
+  </section>
+  {{{people}}}
+  {{{pubs}}}
+  <nav class="section-tight field-others" aria-label="Other research fields">
+    <h2>Other fields</h2>
+    <ul class="chips">{{{others}}}</ul>
+  </nav>
+</div>

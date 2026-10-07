@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Geometric and Riemannian robot learning · REACH Lab</title>
+<meta name="description" content="Geometric and Riemannian robot learning at REACH Lab: Learning and control are formulated directly on manifolds and Lie groups, not on flattened approximations of them. This keeps what a robot learns consistent with the structure of the space it moves in.">
+<meta name="color-scheme" content="light dark">
+<link rel="icon" href="../../assets/favicon-32.png" type="image/png" sizes="32x32">
+<link rel="apple-touch-icon" href="../../assets/apple-touch-icon.png">
+<link rel="stylesheet" href="../../assets/site.css">
+<script>(function(){var d=document.documentElement;try{var t=localStorage.getItem("reach-theme");if(t==="light"||t==="dark")d.setAttribute("data-theme",t);}catch(err){}})();</script>
+</head>
+<body class="page-field">
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap header-row">
+    <a class="brand" href="../../index.html"><img class="logo logo-light" src="../../assets/logo.png" width="288" height="144" alt="REACH Lab — Robot Learning and Control Lab"><img class="logo logo-dark" src="../../assets/logo-dark.png" width="288" height="144" alt="REACH Lab — Robot Learning and Control Lab"></a>
+    <div class="header-tools">
+      <button class="theme-toggle" type="button" aria-label="Switch colour theme" hidden><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z"/></svg></button>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" hidden><span class="nav-toggle-bars" aria-hidden="true"></span><span class="nav-toggle-label">Menu</span></button>
+    </div>
+    <nav id="site-nav" class="site-nav" aria-label="Main"><ul class="nav-list"><li><a class="nav-link is-current" href="../index.html">Research</a></li><li><a class="nav-link" href="../../people/index.html">People</a></li><li><a class="nav-link" href="../../publications/index.html">Publications</a></li><li><a class="nav-link" href="../../news/index.html">News</a></li><li><a class="nav-link" href="../../join/index.html">Join</a></li><li><a class="nav-link" href="../../resources/index.html">Resources</a></li><li><a class="nav-link" href="../../teaching/index.html">Teaching</a></li><li><a class="nav-link" href="../../contact/index.html">Contact</a></li></ul></nav>
+  </div>
+</header>
+<main id="main">
+<div class="wrap">
+  <nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="../index.html">Research</a></li><li aria-current="page">Geometric and Riemannian robot learning</li></ol></nav>
+</div>
+<header class="wrap field-hero">
+  <div class="field-hero-copy">
+    <p class="eyebrow">Research field</p>
+    <h1>Geometric and Riemannian robot learning</h1>
+    <p class="lede">Learning and control are formulated directly on manifolds and Lie groups, not on flattened approximations of them. This keeps what a robot learns consistent with the structure of the space it moves in.</p>
+  </div>
+  <div class="field-art"><svg class="art" viewBox="0 0 480 300" role="img" aria-label="A sphere with a geodesic between two points, a tangent plane at the start and tangent vectors carried along the path."><title>A sphere with a geodesic between two points, a tangent plane at the start and tangent vectors carried along the path.</title><path class="a-back" d="M235.5 279.9L243.9 279.9L252.2 279.4L260.3 278.3L268.1 276.8L275.3 274.7L282 272.2L287.9 269.2L293.1 265.9L297.3 262.3L300.5 258.4L302.7 254.4L303.8 250.2L303.9 246L302.8 241.9L300.7 237.8L297.5 234L293.4 230.3L288.3 227L282.4 224L275.8 221.5L268.6 219.4L260.8 217.7L252.8 216.6L244.5 216.1L236.1 216.1L227.8 216.6L219.7 217.7L211.9 219.2L204.7 221.3L198 223.8L192.1 226.8L186.9 230.1L182.7 233.7L179.5 237.6L177.3 241.6L176.2 245.8L176.1 250L177.2 254.1L179.3 258.2L182.5 262L186.6 265.7L191.7 269L197.6 272L204.2 274.5L211.4 276.6L219.2 278.3L227.2 279.4L235.5 279.9"/><path class="a-back" d="M339.2 232.2L344.8 225.5L348.6 218.5L350.6 211.3L350.6 204L348.8 196.8L345.1 189.8L339.6 183.1L332.4 176.8L323.7 171.1L313.5 165.9L302 161.5L289.5 157.8L276.1 155L262.1 153.1L247.7 152.1L233.2 152.1L218.8 153L204.8 154.9L191.4 157.6L178.8 161.2L167.3 165.6L157 170.7L148.1 176.4L140.8 182.7L135.2 189.4L131.4 196.4L129.4 203.6L129.4 210.8L131.2 218L134.9 225"/><path class="a-grid" d="M232.3 262.7L246.8 262.7L261.2 261.8L275.2 260L288.6 257.2L301.2 253.6L312.7 249.3L323 244.2L331.9 238.4L339.2 232.2M134.9 225L140.4 231.7L147.6 238L156.3 243.8L166.5 248.9L178 253.4L190.5 257L203.9 259.8L217.9 261.7L232.3 262.7"/><path class="a-back" d="M367.7 156.5L367.8 148.1L365.6 139.8L361.4 131.7L355 123.9L346.7 116.7L336.6 110L324.8 104.1L311.6 98.9L297.1 94.7L281.7 91.5L265.5 89.3L248.9 88.2L232.2 88.1L215.6 89.2L199.4 91.3L183.9 94.5L169.4 98.6L156 103.7L144.1 109.6L133.9 116.2L125.4 123.4L119 131.2L114.6 139.2L112.3 147.5"/><path class="a-grid" d="M231.1 215.8L247.8 215.9L264.4 214.8L280.6 212.7L296.1 209.5L310.6 205.4L324 200.3L335.9 194.4L346.1 187.8L354.6 180.6L361 172.8L365.4 164.8L367.7 156.5M112.3 147.5L112.2 155.9L114.4 164.2L118.6 172.3L125 180.1L133.3 187.3L143.4 194L155.2 199.9L168.4 205.1L182.9 209.3L198.3 212.5L214.5 214.7L231.1 215.8"/><path class="a-back" d="M345.1 79L339.6 72.3L332.4 66L323.7 60.2L313.5 55.1L302 50.6L289.5 47L276.1 44.2L262.1 42.3L247.7 41.3L233.2 41.3L218.8 42.2L204.8 44L191.4 46.8L178.8 50.4L167.3 54.7L157 59.8L148.1 65.6L140.8 71.8"/><path class="a-grid" d="M232.3 151.9L246.8 151.9L261.2 151L275.2 149.1L288.6 146.4L301.2 142.8L312.7 138.4L323 133.3L331.9 127.6L339.2 121.3L344.8 114.6L348.6 107.6L350.6 100.4L350.6 93.2L348.8 86L345.1 79M140.8 71.8L135.2 78.5L131.4 85.5L129.4 92.7L129.4 100L131.2 107.2L134.9 114.2L140.4 120.9L147.6 127.2L156.3 132.9L166.5 138.1L178 142.5L190.5 146.2L203.9 149L217.9 150.9L232.3 151.9"/><path class="a-grid" d="M235.5 87.9L243.9 87.9L252.2 87.4L260.3 86.3L268.1 84.8L275.3 82.7L282 80.2L287.9 77.2L293.1 73.9L297.3 70.3L300.5 66.4L302.7 62.4L303.8 58.2L303.9 54L302.8 49.9L300.7 45.8L297.5 42L293.4 38.3L288.3 35L282.4 32L275.8 29.5L268.6 27.4L260.8 25.7L252.8 24.6L244.5 24.1L236.1 24.1L227.8 24.6L219.7 25.7L211.9 27.2L204.7 29.3L198 31.8L192.1 34.8L186.9 38.1L182.7 41.7L179.5 45.6L177.3 49.6L176.2 53.8L176.1 58L177.2 62.1L179.3 66.2L182.5 70L186.6 73.7L191.7 77L197.6 80L204.2 82.5L211.4 84.6L219.2 86.3L227.2 87.4L235.5 87.9"/><path class="a-back" d="M244.5 24.1L245.4 25.2L246.3 28.5L247.1 33.9L247.7 41.3L248.2 50.6L248.6 61.6L248.9 74.2L248.9 88.2L248.9 103.2L248.6 119L248.2 135.4L247.7 152.1L247.1 168.8L246.3 185.2L245.4 201.1L244.5 216.1L243.4 230L242.3 242.6L241.2 253.6L240 262.9L238.8 270.2L237.7 275.6L236.6 278.8L235.5 279.9"/><path class="a-grid" d="M231.1 215.8L231.1 200.8L231.4 185L231.8 168.6L232.3 151.9L232.9 135.2L233.7 118.8L234.6 102.9L235.5 87.9L236.6 74L237.7 61.4L238.8 50.4L240 41.1L241.2 33.8L242.3 28.4L243.4 25.2L244.5 24.1M235.5 279.9L234.6 278.8L233.7 275.5L232.9 270.1L232.3 262.7L231.8 253.4L231.4 242.4L231.1 229.8L231.1 215.8"/><path class="a-back" d="M211.9 27.2L205.8 29L200.3 32.9L195.5 38.9L191.4 46.8L188.2 56.4L185.8 67.7L184.4 80.5L183.9 94.5L184.4 109.4L185.8 125.1L188.2 141.3L191.4 157.6L195.5 173.8L200.3 189.7L205.8 204.9L211.9 219.2L218.5 232.4L225.5 244.2L232.7 254.4L240 262.9L247.3 269.4L254.5 274L261.5 276.4L268.1 276.8"/><path class="a-grid" d="M296.1 209.5L295.6 194.6L294.2 178.9L291.8 162.7L288.6 146.4L284.5 130.2L279.7 114.3L274.2 99.1L268.1 84.8L261.5 71.6L254.5 59.8L247.3 49.6L240 41.1L232.7 34.6L225.5 30L218.5 27.6L211.9 27.2M268.1 276.8L274.2 275L279.7 271.1L284.5 265.1L288.6 257.2L291.8 247.6L294.2 236.3L295.6 223.5L296.1 209.5"/><path class="a-back" d="M165 48.3L155.8 56.1L148.1 65.6L142 76.5L137.5 88.7L134.8 102L133.9 116.2L134.8 131L137.5 146.1L142 161.4L148.1 176.4L155.8 191.1L165 205.1L175.4 218.2L186.9 230.1L199.4 240.7L212.5 249.8L226.1 257.2L240 262.9L253.9 266.6L267.5 268.3L280.6 268.1L293.1 265.9L304.6 261.7L315 255.7"/><path class="a-grid" d="M346.1 187.8L345.2 173L342.5 157.9L338 142.6L331.9 127.6L324.2 112.9L315 98.9L304.6 85.8L293.1 73.9L280.6 63.3L267.5 54.2L253.9 46.8L240 41.1L226.1 37.4L212.5 35.7L199.4 35.9L186.9 38.1L175.4 42.3L165 48.3M315 255.7L324.2 247.9L331.9 238.4L338 227.5L342.5 215.3L345.2 202L346.1 187.8"/><path class="a-back" d="M113.4 133.1L112.3 147.5L113.4 162L116.7 176.4L122 190.3L129.4 203.6L138.7 215.9L149.7 227.2L162.3 237.2L176.2 245.8L191.1 252.7L207 257.9L223.3 261.3L240 262.9L256.7 262.5L273 260.2L288.9 256.1L303.8 250.2L317.7 242.7L330.3 233.5L341.3 223L350.6 211.3L358 198.5L363.3 185L366.6 170.9"/><path class="a-grid" d="M367.7 156.5L366.6 142L363.3 127.6L358 113.7L350.6 100.4L341.3 88.1L330.3 76.8L317.7 66.8L303.8 58.2L288.9 51.3L273 46.1L256.7 42.7L240 41.1L223.3 41.5L207 43.8L191.1 47.9L176.2 53.8L162.3 61.3L149.7 70.5L138.7 81L129.4 92.7L122 105.5L116.7 119L113.4 133.1M366.6 170.9L367.7 156.5"/><path class="a-back" d="M355 123.9L354.1 109.7L351.1 96.2L346.3 83.7L339.6 72.3M140.4 231.7L148.7 241.7L158.7 250.2L170 257L182.5 262L196 265.1L210.2 266.3L225 265.6L240 262.9L255 258.2L269.8 251.8L284 243.7L297.5 234L310 222.9L321.3 210.5L331.3 197.2L339.6 183.1L346.3 168.5L351.1 153.6L354.1 138.7L355 123.9"/><path class="a-grid" d="M339.6 72.3L331.3 62.3L321.3 53.8L310 47L297.5 42L284 38.9L269.8 37.7L255 38.4L240 41.1L225 45.8L210.2 52.2L196 60.3L182.5 70L170 81.1L158.7 93.5L148.7 106.8L140.4 120.9L133.7 135.5L128.9 150.4L125.9 165.3L125 180.1L125.9 194.3L128.9 207.8L133.7 220.3L140.4 231.7"/><path class="a-back" d="M311.6 98.9L311 84.9L309.1 72.1L306.1 60.6L302 50.6L296.8 42.4L290.6 36.1L283.6 31.8M196.4 272.2L204.2 274.5L212.6 274.7L221.5 272.8L230.7 268.8L240 262.9L249.3 255L258.5 245.3L267.4 234.1L275.8 221.5L283.6 207.6L290.6 192.9L296.8 177.4L302 161.5L306.1 145.4L309.1 129.4L311 113.9L311.6 98.9"/><path class="a-grid" d="M283.6 31.8L275.8 29.5L267.4 29.3L258.5 31.2L249.3 35.2L240 41.1L230.7 49L221.5 58.7L212.6 69.9L204.2 82.5L196.4 96.4L189.4 111.1L183.2 126.6L178 142.5L173.9 158.6L170.9 174.6L169 190.1L168.4 205.1L169 219.1L170.9 231.9L173.9 243.4L178 253.4L183.2 261.6L189.4 267.9L196.4 272.2"/><circle class="a-rim" cx="240" cy="152" r="128"/><path class="a-plane" d="M125 233.4L174.7 267.5L155.9 204.1L106.2 169.9Z"/><path class="a-chord" d="M140.5 218.7L331.2 180.6"/><path class="a-acc" d="M140.5 218.7L142.5 219.9L144.6 221L146.8 222.1L149.1 223.1L151.4 224L153.8 224.9L156.3 225.8L158.8 226.6L161.4 227.3L164.1 228L166.8 228.6L169.6 229.1L172.4 229.6L175.3 230.1L178.2 230.4L181.2 230.8L184.2 231L187.3 231.2L190.4 231.3L193.6 231.4L196.7 231.4L200 231.4L203.2 231.3L206.5 231.1L209.8 230.8L213.1 230.6L216.4 230.2L219.8 229.8L223.2 229.3L226.6 228.8L230 228.2L233.4 227.5L236.8 226.8L240.2 226L243.6 225.2L247 224.3L250.4 223.4L253.8 222.4L257.2 221.4L260.6 220.3L264 219.1L267.3 217.9L270.6 216.7L273.9 215.3L277.2 214L280.4 212.6L283.6 211.1L286.8 209.7L290 208.1L293.1 206.5L296.1 204.9L299.1 203.2L302.1 201.5L305 199.8L307.9 198L310.7 196.2L313.5 194.4L316.2 192.5L318.9 190.6L321.5 188.6L324 186.7L326.5 184.7L328.8 182.6L331.2 180.6"/><path class="a-ink" d="M191 231.4L195.5 211.9M196.6 216.8L195.5 211.9L192.4 215.8"/><path class="a-ink" d="M244.3 225L249.7 202.2M250.8 207.1L249.7 202.2L246.5 206.1"/><path class="a-ink" d="M296.7 204.6L300.7 178.9M302.2 183.7L300.7 178.9L297.9 183"/><path class="a-acc" d="M140.5 218.7L169.4 236M162.5 235.3L169.4 236L165.6 230.1"/><circle class="a-dot" cx="140.5" cy="218.7" r="3.5"/><circle class="a-dot-acc" cx="331.2" cy="180.6" r="4"/></svg></div>
+</header>
+<div class="wrap field-main">
+  <section class="section-tight prose">
+    <h2 class="visually-hidden">About this field</h2>
+    <p>Orientations, stiffness matrices and robot configurations are not flat vectors — they carry curvature and constraints. We formulate learning and control directly on these manifolds, so that generalization respects the structure of the space instead of working around it.</p>
+  </section>
+  <section class="section-tight"><h2>People</h2><ul class="person-grid person-grid-compact"><li class="person"><img class="monogram photo" src="../../assets/photo-hozefa-jesawada.jpg" width="384" height="384" alt="Hozefa Jesawada"><div class="person-body"><h3 class="person-name">Hozefa Jesawada</h3><p class="person-meta">Postdoctoral researcher <span aria-hidden="true">·</span> since 2025</p><p class="person-topic">The research covers safe learning-based control for soft and continuum robots. It also develops Grassmannian methods for null-space control.</p><div class="person-bio"><p>Hozefa Jesawada is a Postdoctoral Researcher at New York University Abu Dhabi. He earned his PhD in Information Technologies for Engineering from the University of Sannio, Italy, and subsequently worked as a postdoctoral researcher at the University of Salerno. His research focuses on reliable decision-making and control for robotics, combining tools from optimization, uncertainty-aware learning, inverse optimal control, and robust planning.</p><p>He is particularly interested in how principled learning methods can support embodied intelligence in real robotic systems, including manipulation, model-based formal control, and safety-aware autonomy.</p></div><ul class="person-links"><li><a href="https://scholar.google.com/citations?user=5vdqS3AAAAAJ" rel="noopener">Google Scholar</a></li><li><a href="https://orcid.org/0000-0003-4212-2826" rel="noopener">ORCID</a></li><li><a href="https://www.linkedin.com/in/hozefa-jesawada-729014161/" rel="noopener">LinkedIn</a></li></ul></div></li><li class="person"><img class="monogram photo" src="../../assets/photo-ikhlas-ben-hmida.jpg" width="384" height="384" alt="Ikhlas Ben Hmida"><div class="person-body"><h3 class="person-name">Ikhlas Ben Hmida</h3><p class="person-meta">PhD student <span aria-hidden="true">·</span> since 2024</p><p class="person-topic">The research covers the modelling and design of a soft prosthetic hand. It also explores data-driven decoding of hand and finger motion from surface electromyography.</p><div class="person-bio"><p>Ikhlas Ben Hmida is a Global Ph.D. fellow from NYU Tandon School of Engineering and a visiting graduate research assistant at the REACH Lab at NYUAD, where she is conducting her PhD research.</p><p>Her research interests include soft robotics, bio-inspired systems, and medical applications of robotics. She is currently exploring data-driven approaches to decoding hand and finger motion from surface electromyography (sEMG) to advance human-machine interfaces and dexterous prosthetic and assistive hands.</p></div><ul class="person-links"><li><a href="https://scholar.google.com/citations?user=5wNH6q8AAAAJ" rel="noopener">Google Scholar</a></li><li><a href="https://www.linkedin.com/in/ikhlas-ben-hmida-4b9108104" rel="noopener">LinkedIn</a></li></ul></div></li><li class="person"><img class="monogram photo" src="../../assets/photo-omar-mostafa.jpg" width="384" height="384" alt="Omar Mostafa"><div class="person-body"><h3 class="person-name">Omar Mostafa</h3><p class="person-meta">PhD student <span aria-hidden="true">·</span> since 2026</p><p class="person-topic">The research is on stable robot learning, including stable dynamical-systems control. It also covers vision-language-guided policy learning and simulation environments for manipulation.</p><div class="person-bio"><p>Omar Mostafa is a Global PhD student in Electrical and Computer Engineering. His research interests are robot learning and control, with a focus on physics-informed reinforcement learning and world models for robotic manipulation.</p><p>Previously: Graduated magna cum laude from NYU Abu Dhabi with a bachelor’s degree in Electrical Engineering.</p></div><ul class="person-links"><li><a href="https://scholar.google.com/citations?user=VzHMIyoAAAAJ" rel="noopener">Google Scholar</a></li><li><a href="https://www.linkedin.com/in/omar-mostafa-0633371b6/" rel="noopener">LinkedIn</a></li></ul></div></li><li class="person"><svg class="monogram" viewBox="0 0 64 64" aria-hidden="true" focusable="false"><circle class="mg-ring" cx="32" cy="32" r="27"/><path class="mg-arc" d="M37.2 58.5A27 27 0 0 1 8.9 45.9"/><path class="mg-tan" d="M8.9 45.9L4.2 38.2"/><circle class="mg-dot" cx="8.9" cy="45.9" r="2.6"/><text class="mg-text" x="32" y="33" text-anchor="middle" dominant-baseline="middle">NM</text></svg><div class="person-body"><h3 class="person-name">Narayana Reddy Marthala</h3><p class="person-meta">PhD student <span aria-hidden="true">·</span> since 2026</p><p class="person-topic">The research covers contact control for space robots. The robots studied are dual-arm and free-floating.</p></div></li></ul></section>
+  <section class="section-tight"><h2>Publications since 2024</h2><ol class="pub-list"><li class="pub" data-fields="1"><h3 class="pub-title">Constrained Trajectory Optimization on Matrix Lie Groups via Lie-Algebraic Differential Dynamic Programming</h3><p class="pub-venue">Systems &amp; Control Letters (SCL), vol. 204</p><p class="pub-authors">G. Alcan, <strong>F. J. Abu-Dakka</strong>, V. Kyrki</p><ul class="pub-links"><li><a class="link-badge" href="https://arxiv.org/abs/2301.02018v3" rel="noopener">arXiv</a></li><li><a class="link-badge" href="https://doi.org/10.1016/j.sysconle.2025.106220" rel="noopener">DOI</a></li></ul><pre class="pub-bib" data-bib hidden>@article{alcan2025constrained,
+  author        = {Alcan, G. and Abu-Dakka, F. J. and Kyrki, V.},
+  title         = {{Constrained Trajectory Optimization on Matrix Lie Groups via Lie-Algebraic Differential Dynamic Programming}},
+  journal       = {Systems \&amp; Control Letters},
+  year          = {2025},
+  volume        = {204},
+  pages         = {106220},
+  doi           = {10.1016/j.sysconle.2025.106220},
+  eprint        = {2301.02018v3},
+  archivePrefix = {arXiv}
+}</pre></li><li class="pub" data-fields="1 3"><h3 class="pub-title">MeshDMP: Motion Planning on Discrete Manifolds using Dynamic Movement Primitives</h3><p class="pub-venue">IEEE International Conference on Robotics and Automation (ICRA)</p><p class="pub-authors">M. Dalle Vedove, <strong>F. J. Abu-Dakka</strong>, L. Palopoli, D. Fontanelli, M. Saveriano</p><ul class="pub-links"><li><a class="link-badge" href="https://arxiv.org/abs/2410.15123v2" rel="noopener">arXiv</a></li><li><a class="link-badge" href="https://doi.org/10.1109/ICRA55743.2025.11128556" rel="noopener">DOI</a></li></ul><pre class="pub-bib" data-bib hidden>@inproceedings{dallevedove2025meshdmp,
+  author        = {Dalle Vedove, M. and Abu-Dakka, F. J. and Palopoli, L. and Fontanelli, D. and Saveriano, M.},
+  title         = {{MeshDMP: Motion Planning on Discrete Manifolds using Dynamic Movement Primitives}},
+  booktitle     = {IEEE International Conference on Robotics and Automation (ICRA)},
+  year          = {2025},
+  pages         = {895--901},
+  publisher     = {IEEE},
+  address       = {Atlanta, GA, USA},
+  doi           = {10.1109/ICRA55743.2025.11128556},
+  eprint        = {2410.15123v2},
+  archivePrefix = {arXiv}
+}</pre></li><li class="pub" data-fields="3 4 1"><h3 class="pub-title">Learning Periodic Skills for Robotic Manipulation: Insights on Orientation and Impedance</h3><p class="pub-venue">Robotics and Autonomous Systems (RAS)</p><p class="pub-authors"><strong>F. Abu-Dakka</strong>, M. Saveriano, L. Peternel</p><ul class="pub-links"><li><a class="link-badge" href="https://doi.org/10.1016/j.robot.2024.104763" rel="noopener">DOI</a></li></ul><pre class="pub-bib" data-bib hidden>@article{abudakka2024learning,
+  author  = {Abu-Dakka, F. and Saveriano, M. and Peternel, L.},
+  title   = {{Learning Periodic Skills for Robotic Manipulation: Insights on Orientation and Impedance}},
+  journal = {Robotics and Autonomous Systems},
+  year    = {2024},
+  volume  = {180},
+  pages   = {104763},
+  doi     = {10.1016/j.robot.2024.104763}
+}</pre></li><li class="pub" data-fields="7 1"><h3 class="pub-title">EEG Motor Imagery Classification: Tangent Space with Gate-Generated Weight Classifier</h3><p class="pub-venue">Biomimetics</p><p class="pub-authors">S. Omari, A. Omari, <strong>F. Abu-Dakka</strong>, M. Abderrahim</p><ul class="pub-links"><li><a class="link-badge" href="https://doi.org/10.3390/biomimetics9080459" rel="noopener">DOI</a></li><li><a class="link-badge" href="https://www.mdpi.com/2313-7673/9/8/459/pdf" rel="noopener">PDF</a></li></ul><pre class="pub-bib" data-bib hidden>@article{omari2024eeg,
+  author  = {Omari, S. and Omari, A. and Abu-Dakka, F. and Abderrahim, M.},
+  title   = {{EEG Motor Imagery Classification: Tangent Space with Gate-Generated Weight Classifier}},
+  journal = {Biomimetics},
+  year    = {2024},
+  volume  = {9},
+  number  = {8},
+  pages   = {459},
+  doi     = {10.3390/biomimetics9080459}
+}</pre></li><li class="pub" data-fields="1 3"><h3 class="pub-title">A Unified Formulation of Geometry-Aware Discrete Dynamic Movement Primitives</h3><p class="pub-venue">Neurocomputing</p><p class="pub-authors"><strong>F. J. Abu-Dakka</strong>, M. Saveriano, V. Kyrki</p><ul class="pub-links"><li><a class="link-badge" href="https://arxiv.org/abs/2203.03374v3" rel="noopener">arXiv</a></li><li><a class="link-badge" href="https://doi.org/10.1016/j.neucom.2024.128056" rel="noopener">DOI</a></li></ul><pre class="pub-bib" data-bib hidden>@article{abudakka2024unified,
+  author        = {Abu-Dakka, F. J. and Saveriano, M. and Kyrki, V.},
+  title         = {{A Unified Formulation of Geometry-Aware Discrete Dynamic Movement Primitives}},
+  journal       = {Neurocomputing},
+  year          = {2024},
+  volume        = {598},
+  pages         = {128056},
+  doi           = {10.1016/j.neucom.2024.128056},
+  eprint        = {2203.03374v3},
+  archivePrefix = {arXiv}
+}</pre></li><li class="pub" data-fields="2 1"><h3 class="pub-title">Safe Execution of Learned Orientation Skills with Conic Control Barrier Functions</h3><p class="pub-venue">IEEE International Conference on Robotics and Automation (ICRA)</p><p class="pub-authors">Z. Shen, M. Saveriano, <strong>F. J. Abu-Dakka</strong>, S. Haddadin</p><ul class="pub-links"><li><a class="link-badge" href="https://arxiv.org/pdf/2403.05447" rel="noopener">arXiv</a></li><li><a class="link-badge" href="https://doi.org/10.1109/ICRA57147.2024.10611325" rel="noopener">DOI</a></li></ul><pre class="pub-bib" data-bib hidden>@inproceedings{shen2024safe,
+  author    = {Shen, Z. and Saveriano, M. and Abu-Dakka, F. J. and Haddadin, S.},
+  title     = {{Safe Execution of Learned Orientation Skills with Conic Control Barrier Functions}},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA)},
+  year      = {2024},
+  pages     = {13376--13382},
+  publisher = {IEEE},
+  address   = {Yokohama, Japan},
+  doi       = {10.1109/ICRA57147.2024.10611325}
+}</pre></li><li class="pub" data-fields="1"><h3 class="pub-title">CITR: A Coordinate-Invariant Task Representation for Robotic Manipulation</h3><p class="pub-venue">IEEE International Conference on Robotics and Automation (ICRA)</p><p class="pub-authors">P. So, R. I. Cabral Muchacho, R. J. Kirschner, A. Swikir, L. Figueredo, <strong>F. J. Abu-Dakka</strong>, S. Haddadin</p><ul class="pub-links"><li><a class="link-badge" href="https://doi.org/10.1109/ICRA57147.2024.10611312" rel="noopener">DOI</a></li></ul><pre class="pub-bib" data-bib hidden>@inproceedings{so2024citr,
+  author    = {So, P. and Cabral Muchacho, R. I. and Kirschner, R. J. and Swikir, A. and Figueredo, L. and Abu-Dakka, F. J. and Haddadin, S.},
+  title     = {{CITR: A Coordinate-Invariant Task Representation for Robotic Manipulation}},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA)},
+  year      = {2024},
+  pages     = {17501--17507},
+  publisher = {IEEE},
+  address   = {Yokohama, Japan},
+  doi       = {10.1109/ICRA57147.2024.10611312}
+}</pre></li><li class="pub" data-fields="1 3"><h3 class="pub-title">G<sup>3</sup>VLA: Geometric inductive bias for Vision-Language-Action Models</h3><p class="pub-venue"><span class="pub-status">Preprint</span> arXiv preprint — not yet peer-reviewed</p><p class="pub-authors">Yue Peng, Yongzhe Zhao, Artur Habuda, Khuyen Pham, Yanheng Zhu, Tran Nguyen Le, <strong>Fares Abu-Dakka</strong>, Li Guo</p><ul class="pub-links"><li><a class="link-badge" href="https://arxiv.org/abs/2606.24472" rel="noopener">arXiv</a></li></ul><pre class="pub-bib" data-bib hidden>@misc{peng2026g3vla,
+  author        = {Peng, Yue and Zhao, Yongzhe and Habuda, Artur and Pham, Khuyen and Zhu, Yanheng and Le, Tran Nguyen and Abu-Dakka, Fares and Guo, Li},
+  title         = {{G\textsuperscript{3}VLA: Geometric inductive bias for Vision-Language-Action Models}},
+  year          = {2026},
+  eprint        = {2606.24472},
+  archivePrefix = {arXiv},
+  note          = {Preprint, not yet peer-reviewed},
+  url           = {https://arxiv.org/abs/2606.24472}
+}</pre></li><li class="pub" data-fields="1 2"><h3 class="pub-title">Stable Robot Motions on Manifolds: Learning Lyapunov-Constrained Neural Manifold ODEs</h3><p class="pub-venue"><span class="pub-status">Preprint</span> arXiv preprint — not yet peer-reviewed</p><p class="pub-authors">David Boetius, Abdelrahman Abdelnaby, Ashok Kumar, Stefan Leue, Abdalla Swikir, <strong>Fares J. Abu-Dakka</strong></p><ul class="pub-links"><li><a class="link-badge" href="https://arxiv.org/abs/2510.05707" rel="noopener">arXiv</a></li></ul><pre class="pub-bib" data-bib hidden>@misc{boetius2025stable,
+  author        = {Boetius, David and Abdelnaby, Abdelrahman and Kumar, Ashok and Leue, Stefan and Swikir, Abdalla and Abu-Dakka, Fares J.},
+  title         = {{Stable Robot Motions on Manifolds: Learning Lyapunov-Constrained Neural Manifold ODEs}},
+  year          = {2025},
+  eprint        = {2510.05707},
+  archivePrefix = {arXiv},
+  note          = {Preprint, not yet peer-reviewed},
+  url           = {https://arxiv.org/abs/2510.05707}
+}</pre></li></ol></section>
+  <nav class="section-tight field-others" aria-label="Other research fields">
+    <h2>Other fields</h2>
+    <ul class="chips"><li><a class="chip" href="../safe-control/index.html">Safe and certifiable learning-based control</a></li><li><a class="chip" href="../demonstration/index.html">Learning from demonstration and physical interaction</a></li><li><a class="chip" href="../contact-rich/index.html">Compliant and contact-rich manipulation</a></li><li><a class="chip" href="../soft-robotics/index.html">Soft and continuum robotics</a></li><li><a class="chip" href="../uncertainty/index.html">Decision-making under uncertainty</a></li><li><a class="chip" href="../neural-interfaces/index.html">Neural interfaces and assistive robotics</a></li></ul>
+  </nav>
+</div>
+
+</main>
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div class="footer-id">
+      <p class="footer-brand"><img class="logo logo-light" src="../../assets/logo.png" width="288" height="144" alt="REACH Lab — Robot Learning and Control Lab"><img class="logo logo-dark" src="../../assets/logo-dark.png" width="288" height="144" alt="REACH Lab — Robot Learning and Control Lab"></p>
+      <p>Robot Learning and Control Lab<br>New York University Abu Dhabi</p>
+    </div>
+    <ul class="footer-links">
+      <li><a href="mailto:fa2656@nyu.edu">fa2656@nyu.edu</a></li>
+      <li><a href="https://github.com/NYUAD-REACH-LAB" rel="noopener">The lab on GitHub</a></li>
+      <li><a href="https://abudakka.github.io" rel="noopener">Fares J. Abu-Dakka</a></li>
+    </ul>
+    <ul class="footer-nav"><li><a href="../index.html">Research</a></li><li><a href="../../people/index.html">People</a></li><li><a href="../../publications/index.html">Publications</a></li><li><a href="../../news/index.html">News</a></li><li><a href="../../join/index.html">Join</a></li><li><a href="../../resources/index.html">Resources</a></li><li><a href="../../teaching/index.html">Teaching</a></li><li><a href="../../contact/index.html">Contact</a></li></ul>
+  </div>
+  <div class="wrap footer-base"><p>© 2026 REACH Lab, New York University Abu Dhabi</p></div>
+</footer>
+<script src="../../assets/site.js" defer></script>
+</body>
+</html>

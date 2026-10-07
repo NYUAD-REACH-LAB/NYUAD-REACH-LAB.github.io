@@ -1,0 +1,32 @@
+{
+  "heading": "Join the lab",
+  "lede": "We welcome enquiries from people who want to work on robot learning and control. There is no application form: write to us.",
+  "audiences": [
+    {
+      "title": "Prospective PhD students",
+      "text": "If your interests sit in one of our research fields, tell us which one and what you would like to find out. PhD admission is through the university's graduate programs; write to us before you apply.",
+      "links": [
+        {"label": "PhD in Astrophysics and Space Systems: how to apply", "url": "https://nyuad.nyu.edu/en/academics/graduate-and-phd/phd-programs/phd-in-astrophysics-and-space-systems/apply.html"},
+        {"label": "Global PhD Student Fellowship: how to apply", "url": "https://engineering.nyu.edu/admissions/graduate/how-apply"},
+        {"label": "PhD programs at NYU Abu Dhabi", "url": "https://nyuad.nyu.edu/en/academics/graduate-and-phd/phd-programs.html"}
+      ]
+    },
+    {
+      "title": "Postdoctoral researchers",
+      "text": "If you hold, or are completing, a doctorate in robotics, control or machine learning, tell us what you would bring and what you would build here."
+    },
+    {
+      "title": "Undergraduate researchers",
+      "text": "If you study at NYU Abu Dhabi and want research experience in robot learning and control, tell us what draws you to it."
+    }
+  ],
+  "include_heading": "What to include in your email",
+  "include": [
+    "A subject line that starts with “REACH Lab enquiry” and names the kind of position you have in mind.",
+    "A few sentences on the research field that interests you most, and why.",
+    "Your CV.",
+    "One piece of your own work — a thesis, paper, report, project or code repository — with a link.",
+    "When you could start."
+  ],
+  "closing": "Before you write, read a few of our recent publications: the best enquiries show that you have."
+}

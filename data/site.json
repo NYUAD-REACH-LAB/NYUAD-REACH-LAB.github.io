@@ -1,0 +1,38 @@
+{
+  "name": "REACH Lab",
+  "full_name": "Robot Learning and Control Lab",
+  "title": "REACH Lab — Robot Learning and Control Lab",
+  "affiliation": "New York University Abu Dhabi",
+  "affiliation_short": "NYU Abu Dhabi",
+  "headline": "Robots that learn their skills and keep their guarantees.",
+  "mission": "REACH Lab works on the methods robots need to acquire skills and carry them out reliably and safely. We combine control theory, differential geometry and machine learning. What a robot learns from people and from its own interaction then respects the structure of the space it moves in. It also keeps the guarantees it needs in contact with the world and with the people in it.",
+  "research_intro": "Robots are dependable when the world is arranged for them, and unreliable the moment it is not. The gap opens wherever contact matters. Our work sits between control, which carries guarantees but needs a model, and learning, which brings flexibility but offers no promises. The fields below are where that work runs.",
+  "cross_cutting": "Trajectory optimization and the identification of robot dynamic parameters run underneath most of them.",
+  "map_url": "https://www.google.com/maps/search/?api=1&query=New+York+University+Abu+Dhabi",
+  "map_embed_url": "https://www.google.com/maps?q=New+York+University+Abu+Dhabi&z=15&output=embed",
+  "email": "fa2656@nyu.edu",
+  "github": "https://github.com/NYUAD-REACH-LAB",
+  "pi": {
+    "id": "fares-abu-dakka",
+    "name": "Fares J. Abu-Dakka",
+    "role": "Director",
+    "title": "Assistant Professor of Mechanical Engineering, NYU Abu Dhabi",
+    "since": 2024,
+    "website": "https://abudakka.github.io",
+    "scholar": "https://scholar.google.com/citations?user=jFnb_-EAAAAJ",
+    "orcid": "https://orcid.org/0000-0001-9062-9416",
+    "linkedin": "https://www.linkedin.com/in/fares-abu-dakka",
+    "bio": [
+      "Fares J. Abu-Dakka is Assistant Professor of Mechanical Engineering at NYU Abu Dhabi and director of the REACH Lab. His research enables robots to acquire skills from demonstration and interaction, with applications in geometric control and physical human–robot interaction, for safer and more adaptive manipulation. He earned his PhD in Robotics from the Polytechnic University of Valencia and joined NYU Abu Dhabi in 2024, after positions at Aalto University, the Technical University of Munich and Mondragon University. He is an Associate Editor of the International Journal of Robotics Research and the IEEE Transactions on Robotics, and Senior Editor for ICRA 2027."
+    ]
+  },
+  "publications": {
+    "from_year": 2024,
+    "earlier_work_url": "https://abudakka.github.io/publications.html",
+    "withheld_links": [
+      "https://github.com/nyuad-reach-lab/Learning-Based-Robust-Control"
+    ]
+  },
+  "withheld_fields": [],
+  "build": "all"
+}

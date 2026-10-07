@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+# The weekly update routine prompt stays on disk with the records, not in the public repository
+UPDATE-PROMPT.md
+._*

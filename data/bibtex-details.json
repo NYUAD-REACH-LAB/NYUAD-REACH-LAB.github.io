@@ -1,0 +1,174 @@
+{
+  "2026-k-vark-kernelized-variance-aware-residual-kalman-filter-for-sensorless-f": {
+    "volume": "23",
+    "pages": "11763--11779"
+  },
+  "2026-mv-umi-a-scalable-multi-view-interface-for-cross-embodiment-learning": {
+    "volume": "14",
+    "pages": "104545--104555"
+  },
+  "2026-escaping-the-trap-benchmarking-swarm-gradient-following-in-geometrically": {
+    "pages": "324--331",
+    "publisher": "Springer Nature Switzerland"
+  },
+  "2026-receding-horizon-nullspace-optimization-for-actuation-aware-control-allo": {
+    "pages": "80--87",
+    "publisher": "IEEE"
+  },
+  "2025-constrained-trajectory-optimization-on-matrix-lie-groups-via-lie-algebra": {
+    "pages": "106220"
+  },
+  "2025-evaluating-humanrobot-skill-gaps-in-electrical-circuit-inspection-a-new-": {
+    "pages": "15292--15298"
+  },
+  "2025-meshdmp-motion-planning-on-discrete-manifolds-using-dynamic-movement-pri": {
+    "pages": "895--901",
+    "publisher": "IEEE"
+  },
+  "2024-learning-periodic-skills-for-robotic-manipulation-insights-on-orientatio": {
+    "volume": "180",
+    "pages": "104763"
+  },
+  "2024-eeg-motor-imagery-classification-tangent-space-with-gate-generated-weigh": {
+    "volume": "9",
+    "number": "8",
+    "pages": "459"
+  },
+  "2024-clasificacion-de-senales-eeg-para-aplicaciones-bci-de-imaginacion-motora": {
+    "publisher": "Servizo de Publicacións da Universidade da Coruña"
+  },
+  "2024-interactive-learning-of-physical-object-properties-through-robot-manipul": {
+    "pages": "7596--7603",
+    "publisher": "IEEE"
+  },
+  "2024-a-unified-formulation-of-geometry-aware-discrete-dynamic-movement-primit": {
+    "volume": "598",
+    "pages": "128056"
+  },
+  "2024-visual-servoing-based-dynamic-groove-following-with-an-industrial-robot": {
+    "pages": "761--767",
+    "publisher": "IEEE"
+  },
+  "2024-fusion-dynamical-systems-with-machine-learning-in-imitation-learning-a-c": {
+    "volume": "108",
+    "pages": "102379"
+  },
+  "2024-safe-execution-of-learned-orientation-skills-with-conic-control-barrier-": {
+    "pages": "13376--13382",
+    "publisher": "IEEE"
+  },
+  "2024-citr-a-coordinate-invariant-task-representation-for-robotic-manipulation": {
+    "pages": "17501--17507",
+    "publisher": "IEEE"
+  },
+  "2024-1-khz-behavior-tree-for-self-adaptable-tactile-insertion": {
+    "pages": "16002--16008",
+    "publisher": "IEEE"
+  },
+  "2024-data-efficient-reinforcement-learning-for-variable-impedance-control": {
+    "volume": "12",
+    "pages": "15631--15641"
+  },
+  "2023-digital-robot-judge-building-a-task-centric-performance-database-of-real": {
+    "volume": "31",
+    "number": "4",
+    "pages": "32--44"
+  },
+  "2023-geometric-reinforcement-learning-for-robotic-manipulation": {
+    "volume": "11",
+    "pages": "111492--111505"
+  },
+  "2023-model-based-variable-impedance-learning-control-for-robotic-manipulation": {
+    "volume": "170",
+    "pages": "104531"
+  },
+  "2023-dynamic-movement-primitives-in-robotics-a-tutorial-survey": {
+    "volume": "42",
+    "number": "13",
+    "pages": "1133--1184"
+  },
+  "2023-learning-stable-robotic-skills-on-riemannian-manifolds": {
+    "volume": "169",
+    "pages": "104510"
+  },
+  "2023-orientation-control-with-variable-stiffness-dynamical-systems": {
+    "pages": "4457--4463",
+    "publisher": "IEEE"
+  },
+  "2023-qdp-learning-to-sequentially-optimise-quasi-static-and-dynamic-manipulat": {
+    "pages": "984--991",
+    "publisher": "IEEE"
+  },
+  "2023-sponge-sequence-planning-with-deformable-on-rigid-contact-prediction-fro": {
+    "pages": "10596--10603",
+    "publisher": "IEEE"
+  },
+  "2022-learning-deep-robotic-skills-on-riemannian-manifolds": {
+    "volume": "10",
+    "pages": "114143--114152"
+  },
+  "2022-addressing-sample-efficiency-and-model-bias-in-model-based-reinforcement": {
+    "pages": "1--6",
+    "publisher": "IEEE"
+  },
+  "2022-a-novel-simulation-based-quality-metric-for-evaluating-grasps-on-3d-defo": {
+    "pages": "3123--3129",
+    "publisher": "IEEE"
+  },
+  "2022-deformation-aware-data-driven-grasp-synthesis": {
+    "volume": "7",
+    "number": "2",
+    "pages": "3038--3045"
+  },
+  "2022-a-bidirectional-soft-biomimetic-hand-driven-by-water-hydraulic-for-dexte": {
+    "volume": "7",
+    "number": "2",
+    "pages": "2186--2193"
+  },
+  "2021-periodic-dmp-formulation-for-quaternion-trajectories": {
+    "pages": "658--663",
+    "publisher": "IEEE"
+  },
+  "2021-a-probabilistic-framework-for-learning-geometry-based-robot-manipulation": {
+    "volume": "141",
+    "pages": "103761"
+  },
+  "2021-a-novel-soft-robotic-hand-design-with-human-inspired-soft-palm-achieving": {
+    "volume": "28",
+    "number": "2",
+    "pages": "37--49"
+  },
+  "2021-probabilistic-surface-friction-estimation-based-on-visual-and-haptic-mea": {
+    "volume": "6",
+    "number": "2",
+    "pages": "2838--2845"
+  },
+  "2021-imitation-learning-based-framework-for-learning-6-d-linear-compliant-mot": {
+    "volume": "45",
+    "number": "3",
+    "pages": "389--405"
+  },
+  "2021-toward-orientation-learning-and-adaptation-in-cartesian-space": {
+    "volume": "37",
+    "number": "1",
+    "pages": "82--98"
+  },
+  "2020-variable-impedance-control-and-learning-a-review": {
+    "volume": "7",
+    "pages": "590681"
+  },
+  "2020-geometry-aware-dynamic-movement-primitives": {
+    "pages": "4421--4426",
+    "publisher": "IEEE"
+  },
+  "2020-passive-exercise-adaptation-for-ankle-rehabilitation-based-on-a-learning": {
+    "volume": "20",
+    "number": "21",
+    "pages": "6215"
+  },
+  "2020-development-of-lower-limb-rehabilitation-exercises-using-3-prs-parallel-": {
+    "volume": "7",
+    "number": "2",
+    "pages": "30--44"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "items": [
+    {
+      "date": "2026-08",
+      "kind": "people",
+      "text": "Dean Pretorius joined the lab as a PhD student."
+    },
+    {
+      "date": "2026-06-23",
+      "kind": "paper",
+      "text": "“MV-UMI: A Scalable Multi-View Interface for Cross-Embodiment Learning” was accepted in IEEE Access.",
+      "link": {"label": "DOI", "url": "https://doi.org/10.1109/ACCESS.2026.3709982"}
+    },
+    {
+      "date": "2026-06-11",
+      "kind": "paper",
+      "text": "“K-VARK: Kernelized Variance-Aware Residual Kalman Filter for Sensorless Force Estimation in Collaborative Robots” was accepted in IEEE Transactions on Automation Science and Engineering.",
+      "link": {"label": "DOI", "url": "https://doi.org/10.1109/TASE.2026.3704865"}
+    },
+    {
+      "date": "2026-06-10",
+      "kind": "award",
+      "text": "“Escaping the Trap: Benchmarking Swarm Gradient-Following in Geometrically Constrained Environments” received a Best Video Award at ANTS 2026 in Darmstadt, and was runner-up for the Best Poster Award on the conference’s first day.",
+      "link": {"label": "DOI", "url": "https://doi.org/10.1007/978-3-032-26123-6_26"}
+    },
+    {
+      "date": "2026-06",
+      "kind": "people",
+      "text": "Nilay Kushawaha joined the lab as a postdoctoral researcher."
+    },
+    {
+      "date": "2026-04-21",
+      "kind": "paper",
+      "text": "“Receding-Horizon Nullspace Optimization for Actuation-Aware Control Allocation in Omnidirectional UAVs” was accepted at the International Conference on Unmanned Aircraft Systems (ICUAS) 2026.",
+      "link": {"label": "DOI", "url": "https://doi.org/10.1109/ICUAS69441.2026.11598629"}
+    },
+    {
+      "date": "2026-01-31",
+      "kind": "paper",
+      "text": "“Learning-Based Robust Control: Unifying Exploration and Distributional Robustness for Reliable Robotics via Free Energy” was accepted at IEEE ICRA 2026.",
+      "link": {"label": "arXiv", "url": "https://arxiv.org/abs/2603.06831"}
+    },
+    {
+      "date": "2026-01-31",
+      "kind": "paper",
+      "text": "“A Framework for Soft Robot Control: Integrating Physics-Based Modeling with Exploration-Based Learning” was accepted at IEEE ICRA 2026."
+    },
+    {
+      "date": "2026-01-30",
+      "kind": "paper",
+      "text": "“Escaping the Trap: Benchmarking Swarm Gradient-Following in Geometrically Constrained Environments” was accepted as a short paper at ANTS 2026, the International Conference on Swarm Intelligence."
+    },
+    {
+      "date": "2025-12-17",
+      "kind": "paper",
+      "text": "“Safe and Stable Neural Network Dynamical Systems for Robot Motion Planning” was accepted in IEEE Robotics and Automation Letters.",
+      "link": {"label": "DOI", "url": "https://doi.org/10.1109/LRA.2026.3655207"}
+    },
+    {
+      "date": "2025-08-13",
+      "kind": "paper",
+      "text": "“Constrained Trajectory Optimization on Matrix Lie Groups via Lie-Algebraic Differential Dynamic Programming” was accepted in Systems & Control Letters.",
+      "link": {"label": "DOI", "url": "https://doi.org/10.1016/j.sysconle.2025.106220"}
+    },
+    {
+      "date": "2025",
+      "kind": "talk",
+      "text": "Fares J. Abu-Dakka gave the invited talk “Safe Robot Learning and Control: Challenges, Strategies, and Innovations” at the University of Trento."
+    },
+    {
+      "date": "2025",
+      "kind": "talk",
+      "text": "Fares J. Abu-Dakka gave the talk “Empowering Communities with Cognitive Robots” at the UAE Pavilion, Expo 2025 Osaka."
+    },
+    {
+      "date": "2025-01-27",
+      "kind": "paper",
+      "text": "“Evaluating Human–Robot Skill Gaps in Electrical Circuit Inspection: A New Electronic Task Board for Benchmarking Manipulation” was accepted at IEEE ICRA 2025.",
+      "link": {"label": "DOI", "url": "https://doi.org/10.1109/ICRA55743.2025.11128714"}
+    },
+    {
+      "date": "2025-01-27",
+      "kind": "paper",
+      "text": "“MeshDMP: Motion Planning on Discrete Manifolds using Dynamic Movement Primitives” was accepted at IEEE ICRA 2025.",
+      "link": {"label": "DOI", "url": "https://doi.org/10.1109/ICRA55743.2025.11128556"}
+    },
+    {
+      "date": "2024-09",
+      "kind": "lab",
+      "text": "Fares J. Abu-Dakka joined NYU Abu Dhabi as Assistant Professor of Mechanical Engineering, directing REACH Lab."
+    }
+  ]
+}

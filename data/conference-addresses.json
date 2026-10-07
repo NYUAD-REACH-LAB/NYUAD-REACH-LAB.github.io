@@ -1,0 +1,31 @@
+{
+  "IEEE International Conference on Robotics and Automation (ICRA)": {
+    "2020": "Paris, France",
+    "2024": "Yokohama, Japan",
+    "2025": "Atlanta, GA, USA",
+    "2026": "Vienna, Austria"
+  },
+  "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)": {
+    "2022": "Kyoto, Japan",
+    "2023": "Detroit, MI, USA",
+    "2024": "Abu Dhabi, United Arab Emirates"
+  },
+  "IEEE International Conference on Automation Science and Engineering (CASE)": {
+    "2024": "Bari, Italy"
+  },
+  "International Conference on Unmanned Aircraft Systems (ICUAS)": {
+    "2026": "Corfu, Greece"
+  },
+  "ANTS 2026, 15th International Conference on Swarm Intelligence, Darmstadt": {
+    "2026": "Darmstadt, Germany"
+  },
+  "Jornadas de Automática": {
+    "2024": "Málaga, Spain"
+  },
+  "IEEE International Conference on Machine Learning and Applications (ICMLA)": {
+    "2022": "Nassau, Bahamas"
+  },
+  "International Conference on Advanced Robotics (ICAR)": {
+    "2021": "Ljubljana, Slovenia"
+  }
+}

@@ -1,0 +1,1866 @@
+[
+  {
+    "id": "2026-safe-and-stable-neural-network-dynamical-systems-for-robot-motion-planni",
+    "type": "article",
+    "title": "Safe and Stable Neural Network Dynamical Systems for Robot Motion Planning",
+    "author": [
+      {
+        "literal": "A. E. Binny"
+      },
+      {
+        "literal": "M. Anand"
+      },
+      {
+        "literal": "H. T. M. Kussaba"
+      },
+      {
+        "literal": "L. Chen"
+      },
+      {
+        "literal": "S. Agrawal"
+      },
+      {
+        "literal": "F. J. Abu-Dakka"
+      },
+      {
+        "literal": "A. Swikir"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "IEEE Robotics and Automation Letters (RA-L), vol. 11, no. 3, pp. 3111–3118",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/abs/2511.20593"
+      },
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1109/LRA.2026.3655207"
+      }
+    ]
+  },
+  {
+    "id": "2026-k-vark-kernelized-variance-aware-residual-kalman-filter-for-sensorless-f",
+    "type": "article",
+    "title": "K-VARK: Kernelized Variance-Aware Residual Kalman Filter for Sensorless Force Estimation in Collaborative Robots",
+    "author": [
+      {
+        "literal": "O. Akbıyık"
+      },
+      {
+        "literal": "N. Alhousani"
+      },
+      {
+        "literal": "F. J. Abu-Dakka"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "IEEE Transactions on Automation Science and Engineering (T-ASE)",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/abs/2512.13009"
+      },
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1109/TASE.2026.3704865"
+      }
+    ]
+  },
+  {
+    "id": "2026-mv-umi-a-scalable-multi-view-interface-for-cross-embodiment-learning",
+    "type": "article",
+    "title": "MV-UMI: A Scalable Multi-View Interface for Cross-Embodiment Learning",
+    "author": [
+      {
+        "literal": "O. Rayyan"
+      },
+      {
+        "literal": "J. Abanes"
+      },
+      {
+        "literal": "M. Hafez"
+      },
+      {
+        "literal": "A. Tzes"
+      },
+      {
+        "literal": "F. Abu-Dakka"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "IEEE Access",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/abs/2509.18757"
+      },
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1109/ACCESS.2026.3709982"
+      }
+    ]
+  },
+  {
+    "id": "2026-escaping-the-trap-benchmarking-swarm-gradient-following-in-geometrically",
+    "type": "article",
+    "title": "Escaping the Trap: Benchmarking Swarm Gradient-Following in Geometrically Constrained Environments",
+    "author": [
+      {
+        "literal": "K. A. Busico"
+      },
+      {
+        "literal": "L. Schwarzenbach"
+      },
+      {
+        "literal": "F. Abu-Dakka"
+      },
+      {
+        "literal": "E. Ferrante"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "Lecture Notes in Computer Science (Springer) — ANTS 2026, 15th International Conference on Swarm Intelligence, Darmstadt",
+    "links": [
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1007/978-3-032-26123-6_26"
+      }
+    ]
+  },
+  {
+    "id": "2026-receding-horizon-nullspace-optimization-for-actuation-aware-control-allo",
+    "type": "article",
+    "title": "Receding-Horizon Nullspace Optimization for Actuation-Aware Control Allocation in Omnidirectional UAVs",
+    "author": [
+      {
+        "literal": "R. Pretto"
+      },
+      {
+        "literal": "M. Hamandi"
+      },
+      {
+        "literal": "A. M. Ali"
+      },
+      {
+        "literal": "G. Alcan"
+      },
+      {
+        "literal": "A. Tzes"
+      },
+      {
+        "literal": "F. Abu-Dakka"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "International Conference on Unmanned Aircraft Systems (ICUAS), Corfu, Greece",
+    "links": [
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1109/ICUAS69441.2026.11598629"
+      },
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/abs/2603.06832"
+      }
+    ]
+  },
+  {
+    "id": "2026-learning-based-robust-control-unifying-exploration-and-distributional-ro",
+    "type": "article",
+    "title": "Learning-Based Robust Control: Unifying Exploration and Distributional Robustness for Reliable Robotics via Free Energy",
+    "author": [
+      {
+        "literal": "H. Jesawada"
+      },
+      {
+        "literal": "G. Russo"
+      },
+      {
+        "literal": "A. Swikir"
+      },
+      {
+        "literal": "F. Abu-Dakka"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "IEEE International Conference on Robotics and Automation (ICRA)",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/abs/2603.06831"
+      },
+      {
+        "label": "Code",
+        "URL": "https://github.com/nyuad-reach-lab/Learning-Based-Robust-Control"
+      }
+    ]
+  },
+  {
+    "id": "2026-a-framework-for-soft-robot-control-integrating-physics-based-modeling-wi",
+    "type": "article",
+    "title": "A Framework for Soft Robot Control: Integrating Physics-Based Modeling with Exploration-Based Learning",
+    "author": [
+      {
+        "literal": "C. Armanini"
+      },
+      {
+        "literal": "A. Tzes"
+      },
+      {
+        "literal": "A. Del Prete"
+      },
+      {
+        "literal": "F. Abu-Dakka"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "IEEE International Conference on Robotics and Automation (ICRA)",
+    "links": []
+  },
+  {
+    "id": "2025-constrained-trajectory-optimization-on-matrix-lie-groups-via-lie-algebra",
+    "type": "article",
+    "title": "Constrained Trajectory Optimization on Matrix Lie Groups via Lie-Algebraic Differential Dynamic Programming",
+    "author": [
+      {
+        "literal": "G. Alcan"
+      },
+      {
+        "literal": "F. J. Abu-Dakka"
+      },
+      {
+        "literal": "V. Kyrki"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "Systems & Control Letters (SCL), vol. 204",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/abs/2301.02018v3"
+      },
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1016/j.sysconle.2025.106220"
+      }
+    ]
+  },
+  {
+    "id": "2025-evaluating-humanrobot-skill-gaps-in-electrical-circuit-inspection-a-new-",
+    "type": "article",
+    "title": "Evaluating Human–Robot Skill Gaps in Electrical Circuit Inspection: A New Electronic Task Board for Benchmarking Manipulation",
+    "author": [
+      {
+        "literal": "P. So"
+      },
+      {
+        "literal": "A. Swikir"
+      },
+      {
+        "literal": "F. J. Abu-Dakka"
+      },
+      {
+        "literal": "S. Haddadin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "IEEE International Conference on Robotics and Automation (ICRA)",
+    "links": [
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1109/ICRA55743.2025.11128714"
+      }
+    ]
+  },
+  {
+    "id": "2025-meshdmp-motion-planning-on-discrete-manifolds-using-dynamic-movement-pri",
+    "type": "article",
+    "title": "MeshDMP: Motion Planning on Discrete Manifolds using Dynamic Movement Primitives",
+    "author": [
+      {
+        "literal": "M. Dalle Vedove"
+      },
+      {
+        "literal": "F. J. Abu-Dakka"
+      },
+      {
+        "literal": "L. Palopoli"
+      },
+      {
+        "literal": "D. Fontanelli"
+      },
+      {
+        "literal": "M. Saveriano"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "IEEE International Conference on Robotics and Automation (ICRA)",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/abs/2410.15123v2"
+      },
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1109/ICRA55743.2025.11128556"
+      }
+    ]
+  },
+  {
+    "id": "2024-learning-periodic-skills-for-robotic-manipulation-insights-on-orientatio",
+    "type": "article",
+    "title": "Learning Periodic Skills for Robotic Manipulation: Insights on Orientation and Impedance",
+    "author": [
+      {
+        "literal": "F. Abu-Dakka"
+      },
+      {
+        "literal": "M. Saveriano"
+      },
+      {
+        "literal": "L. Peternel"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "Robotics and Autonomous Systems (RAS)",
+    "links": [
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1016/j.robot.2024.104763"
+      }
+    ]
+  },
+  {
+    "id": "2024-eeg-motor-imagery-classification-tangent-space-with-gate-generated-weigh",
+    "type": "article",
+    "title": "EEG Motor Imagery Classification: Tangent Space with Gate-Generated Weight Classifier",
+    "author": [
+      {
+        "literal": "S. Omari"
+      },
+      {
+        "literal": "A. Omari"
+      },
+      {
+        "literal": "F. Abu-Dakka"
+      },
+      {
+        "literal": "M. Abderrahim"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "Biomimetics",
+    "links": [
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.3390/biomimetics9080459"
+      },
+      {
+        "label": "PDF",
+        "URL": "https://www.mdpi.com/2313-7673/9/8/459/pdf"
+      }
+    ]
+  },
+  {
+    "id": "2024-clasificacion-de-senales-eeg-para-aplicaciones-bci-de-imaginacion-motora",
+    "type": "article",
+    "title": "Clasificación de señales EEG para aplicaciones BCI de imaginación motora",
+    "author": [
+      {
+        "literal": "S. Omari"
+      },
+      {
+        "literal": "A. Omari"
+      },
+      {
+        "literal": "M. A. Fichouche"
+      },
+      {
+        "literal": "F. J. Abu-Dakka"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "Jornadas de Automática",
+    "links": [
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.17979/ja-cea.2024.45.10957"
+      }
+    ]
+  },
+  {
+    "id": "2024-interactive-learning-of-physical-object-properties-through-robot-manipul",
+    "type": "article",
+    "title": "Interactive Learning of Physical Object Properties Through Robot Manipulation and a Database of Object Measurements",
+    "author": [
+      {
+        "literal": "A. Kruzliak"
+      },
+      {
+        "literal": "J. Hartvich"
+      },
+      {
+        "literal": "S. P. Patni"
+      },
+      {
+        "literal": "L. Rustler"
+      },
+      {
+        "literal": "J. K. Behrens"
+      },
+      {
+        "literal": "F. J. Abu-Dakka"
+      },
+      {
+        "literal": "K. Mikolajczyk"
+      },
+      {
+        "literal": "V. Kyrki"
+      },
+      {
+        "literal": "M. Hoffmann"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/pdf/2404.07344"
+      },
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1109/IROS58592.2024.10802249"
+      }
+    ]
+  },
+  {
+    "id": "2024-a-unified-formulation-of-geometry-aware-discrete-dynamic-movement-primit",
+    "type": "article",
+    "title": "A Unified Formulation of Geometry-Aware Discrete Dynamic Movement Primitives",
+    "author": [
+      {
+        "literal": "F. J. Abu-Dakka"
+      },
+      {
+        "literal": "M. Saveriano"
+      },
+      {
+        "literal": "V. Kyrki"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "Neurocomputing",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/abs/2203.03374v3"
+      },
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1016/j.neucom.2024.128056"
+      }
+    ]
+  },
+  {
+    "id": "2024-visual-servoing-based-dynamic-groove-following-with-an-industrial-robot",
+    "type": "article",
+    "title": "Visual Servoing Based Dynamic Groove Following with an Industrial Robot",
+    "author": [
+      {
+        "literal": "G. Sarabia"
+      },
+      {
+        "literal": "A. Izaguirre"
+      },
+      {
+        "literal": "X. Elkorobarrutia"
+      },
+      {
+        "literal": "V. Ruiz"
+      },
+      {
+        "literal": "F. Abu-Dakka"
+      },
+      {
+        "literal": "I. Andonegui"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "IEEE International Conference on Automation Science and Engineering (CASE)",
+    "links": [
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1109/CASE59546.2024.10711597"
+      }
+    ]
+  },
+  {
+    "id": "2024-fusion-dynamical-systems-with-machine-learning-in-imitation-learning-a-c",
+    "type": "article",
+    "title": "Fusion Dynamical Systems with Machine Learning in Imitation Learning: A Comprehensive Overview",
+    "author": [
+      {
+        "literal": "Y. Hu"
+      },
+      {
+        "literal": "F. J. Abu-Dakka"
+      },
+      {
+        "literal": "F. Chen"
+      },
+      {
+        "literal": "X. Luo"
+      },
+      {
+        "literal": "Z. Li"
+      },
+      {
+        "literal": "A. Knoll"
+      },
+      {
+        "literal": "W. Ding"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "Information Fusion",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/abs/2403.19916"
+      },
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1016/j.inffus.2024.102379"
+      }
+    ]
+  },
+  {
+    "id": "2024-safe-execution-of-learned-orientation-skills-with-conic-control-barrier-",
+    "type": "article",
+    "title": "Safe Execution of Learned Orientation Skills with Conic Control Barrier Functions",
+    "author": [
+      {
+        "literal": "Z. Shen"
+      },
+      {
+        "literal": "M. Saveriano"
+      },
+      {
+        "literal": "F. J. Abu-Dakka"
+      },
+      {
+        "literal": "S. Haddadin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "IEEE International Conference on Robotics and Automation (ICRA)",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/pdf/2403.05447"
+      },
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1109/ICRA57147.2024.10611325"
+      }
+    ]
+  },
+  {
+    "id": "2024-citr-a-coordinate-invariant-task-representation-for-robotic-manipulation",
+    "type": "article",
+    "title": "CITR: A Coordinate-Invariant Task Representation for Robotic Manipulation",
+    "author": [
+      {
+        "literal": "P. So"
+      },
+      {
+        "literal": "R. I. Cabral Muchacho"
+      },
+      {
+        "literal": "R. J. Kirschner"
+      },
+      {
+        "literal": "A. Swikir"
+      },
+      {
+        "literal": "L. Figueredo"
+      },
+      {
+        "literal": "F. J. Abu-Dakka"
+      },
+      {
+        "literal": "S. Haddadin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "IEEE International Conference on Robotics and Automation (ICRA)",
+    "links": [
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1109/ICRA57147.2024.10611312"
+      }
+    ]
+  },
+  {
+    "id": "2024-1-khz-behavior-tree-for-self-adaptable-tactile-insertion",
+    "type": "article",
+    "title": "1 kHz Behavior Tree for Self-Adaptable Tactile Insertion",
+    "author": [
+      {
+        "literal": "Y. Wu"
+      },
+      {
+        "literal": "F. Wu"
+      },
+      {
+        "literal": "L. Chen"
+      },
+      {
+        "literal": "K. Chen"
+      },
+      {
+        "literal": "S. Schneider"
+      },
+      {
+        "literal": "L. Johannsmeier"
+      },
+      {
+        "literal": "Z. Bing"
+      },
+      {
+        "literal": "F. J. Abu-Dakka"
+      },
+      {
+        "literal": "A. Knoll"
+      },
+      {
+        "literal": "S. Haddadin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "IEEE International Conference on Robotics and Automation (ICRA)",
+    "links": [
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1109/ICRA57147.2024.10610835"
+      }
+    ]
+  },
+  {
+    "id": "2024-data-efficient-reinforcement-learning-for-variable-impedance-control",
+    "type": "article",
+    "title": "Data-Efficient Reinforcement Learning for Variable Impedance Control",
+    "author": [
+      {
+        "literal": "A. S. Anand"
+      },
+      {
+        "literal": "R. Kaushik"
+      },
+      {
+        "literal": "J. T. Gravdahl"
+      },
+      {
+        "literal": "F. J. Abu-Dakka"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "IEEE Access",
+    "links": [
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1109/ACCESS.2024.3355311"
+      }
+    ]
+  },
+  {
+    "id": "2023-digital-robot-judge-building-a-task-centric-performance-database-of-real",
+    "type": "article",
+    "title": "Digital Robot Judge: Building a Task-Centric Performance Database of Real-World Manipulation with Electronic Task Boards",
+    "author": [
+      {
+        "literal": "P. So"
+      },
+      {
+        "literal": "A. Sarabakha"
+      },
+      {
+        "literal": "F. Wu"
+      },
+      {
+        "literal": "U. Culha"
+      },
+      {
+        "literal": "F. J. Abu-Dakka"
+      },
+      {
+        "literal": "S. Haddadin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "IEEE Robotics & Automation Magazine (RAM)",
+    "links": [
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1109/MRA.2023.3336473"
+      }
+    ]
+  },
+  {
+    "id": "2023-geometric-reinforcement-learning-for-robotic-manipulation",
+    "type": "article",
+    "title": "Geometric Reinforcement Learning for Robotic Manipulation",
+    "author": [
+      {
+        "literal": "N. Alhousani"
+      },
+      {
+        "literal": "M. Saveriano"
+      },
+      {
+        "literal": "I. Sevinc"
+      },
+      {
+        "literal": "T. Abdulkuddus"
+      },
+      {
+        "literal": "H. Kose"
+      },
+      {
+        "literal": "F. J. Abu-Dakka"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "IEEE Access",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/abs/2210.08126"
+      },
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1109/ACCESS.2023.3322654"
+      }
+    ]
+  },
+  {
+    "id": "2023-model-based-variable-impedance-learning-control-for-robotic-manipulation",
+    "type": "article",
+    "title": "Model-Based Variable Impedance Learning Control for Robotic Manipulation",
+    "author": [
+      {
+        "literal": "A. S. Anand"
+      },
+      {
+        "literal": "J. T. Gravdahl"
+      },
+      {
+        "literal": "F. J. Abu-Dakka"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "Robotics and Autonomous Systems (RAS)",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/abs/2209.09614"
+      },
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1016/j.robot.2023.104531"
+      }
+    ]
+  },
+  {
+    "id": "2023-dynamic-movement-primitives-in-robotics-a-tutorial-survey",
+    "type": "article",
+    "title": "Dynamic Movement Primitives in Robotics: A Tutorial Survey",
+    "author": [
+      {
+        "literal": "M. Saveriano"
+      },
+      {
+        "literal": "F. J. Abu-Dakka"
+      },
+      {
+        "literal": "A. Kramberger"
+      },
+      {
+        "literal": "L. Peternel"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "International Journal of Robotics Research (IJRR)",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/abs/2102.03861"
+      },
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1177/02783649231201196"
+      }
+    ]
+  },
+  {
+    "id": "2023-learning-stable-robotic-skills-on-riemannian-manifolds",
+    "type": "article",
+    "title": "Learning Stable Robotic Skills on Riemannian Manifolds",
+    "author": [
+      {
+        "literal": "M. Saveriano"
+      },
+      {
+        "literal": "F. J. Abu-Dakka"
+      },
+      {
+        "literal": "V. Kyrki"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "Robotics and Autonomous Systems (RAS)",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/abs/2208.13267"
+      },
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1016/j.robot.2023.104510"
+      }
+    ]
+  },
+  {
+    "id": "2023-orientation-control-with-variable-stiffness-dynamical-systems",
+    "type": "article",
+    "title": "Orientation Control with Variable Stiffness Dynamical Systems",
+    "author": [
+      {
+        "literal": "Y. Michel"
+      },
+      {
+        "literal": "M. Saveriano"
+      },
+      {
+        "literal": "F. J. Abu-Dakka"
+      },
+      {
+        "literal": "D. Lee"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/abs/2309.15624"
+      },
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1109/IROS55552.2023.10342531"
+      }
+    ]
+  },
+  {
+    "id": "2023-qdp-learning-to-sequentially-optimise-quasi-static-and-dynamic-manipulat",
+    "type": "article",
+    "title": "QDP: Learning to Sequentially Optimise Quasi-Static and Dynamic Manipulation Primitives for Robotic Cloth Manipulation",
+    "author": [
+      {
+        "literal": "D. Blanco-Mulero"
+      },
+      {
+        "literal": "G. Alcan"
+      },
+      {
+        "literal": "F. J. Abu-Dakka"
+      },
+      {
+        "literal": "V. Kyrki"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/abs/2303.13320"
+      },
+      {
+        "label": "Project page",
+        "URL": "https://sites.google.com/view/qdp-srl"
+      },
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1109/IROS55552.2023.10342002"
+      }
+    ]
+  },
+  {
+    "id": "2023-sponge-sequence-planning-with-deformable-on-rigid-contact-prediction-fro",
+    "type": "article",
+    "title": "SPONGE: Sequence Planning with Deformable-on-Rigid Contact Prediction from Geometric Features",
+    "author": [
+      {
+        "literal": "T. N. Le"
+      },
+      {
+        "literal": "F. J. Abu-Dakka"
+      },
+      {
+        "literal": "V. Kyrki"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/abs/2303.14012"
+      },
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1109/IROS55552.2023.10341704"
+      }
+    ]
+  },
+  {
+    "id": "2022-learning-deep-robotic-skills-on-riemannian-manifolds",
+    "type": "article",
+    "title": "Learning Deep Robotic Skills on Riemannian Manifolds",
+    "author": [
+      {
+        "literal": "W. Wang"
+      },
+      {
+        "literal": "M. Saveriano"
+      },
+      {
+        "literal": "F. J. Abu-Dakka"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "IEEE Access",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/abs/2210.15244"
+      },
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1109/ACCESS.2022.3217800"
+      },
+      {
+        "label": "Code",
+        "URL": "https://github.com/WeitaoZC/iflow"
+      }
+    ]
+  },
+  {
+    "id": "2022-addressing-sample-efficiency-and-model-bias-in-model-based-reinforcement",
+    "type": "article",
+    "title": "Addressing Sample Efficiency and Model-Bias in Model-Based Reinforcement Learning",
+    "author": [
+      {
+        "literal": "A. S. Anand"
+      },
+      {
+        "literal": "J. E. Kveen"
+      },
+      {
+        "literal": "F. J. Abu-Dakka"
+      },
+      {
+        "literal": "E. I. Grøtli"
+      },
+      {
+        "literal": "J. T. Gravdahl"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "IEEE International Conference on Machine Learning and Applications (ICMLA)",
+    "links": [
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1109/ICMLA55696.2022.00009"
+      }
+    ]
+  },
+  {
+    "id": "2022-a-novel-simulation-based-quality-metric-for-evaluating-grasps-on-3d-defo",
+    "type": "article",
+    "title": "A Novel Simulation-Based Quality Metric for Evaluating Grasps on 3D Deformable Objects",
+    "author": [
+      {
+        "literal": "T. N. Le"
+      },
+      {
+        "literal": "J. Lundell"
+      },
+      {
+        "literal": "F. J. Abu-Dakka"
+      },
+      {
+        "literal": "V. Kyrki"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/pdf/2203.12420.pdf"
+      },
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1109/IROS47612.2022.9981169"
+      }
+    ]
+  },
+  {
+    "id": "2022-deformation-aware-data-driven-grasp-synthesis",
+    "type": "article",
+    "title": "Deformation-Aware Data-Driven Grasp Synthesis",
+    "author": [
+      {
+        "literal": "T. N. Le"
+      },
+      {
+        "literal": "J. Lundell"
+      },
+      {
+        "literal": "F. J. Abu-Dakka"
+      },
+      {
+        "literal": "V. Kyrki"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "IEEE Robotics and Automation Letters (RA-L)",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/abs/2109.05320"
+      },
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1109/LRA.2022.3146551"
+      }
+    ]
+  },
+  {
+    "id": "2022-a-bidirectional-soft-biomimetic-hand-driven-by-water-hydraulic-for-dexte",
+    "type": "article",
+    "title": "A Bidirectional Soft Biomimetic Hand Driven by Water Hydraulic for Dexterous Underwater Grasping",
+    "author": [
+      {
+        "literal": "H. Wang"
+      },
+      {
+        "literal": "H. Xu"
+      },
+      {
+        "literal": "F. J. Abu-Dakka"
+      },
+      {
+        "literal": "V. Kyrki"
+      },
+      {
+        "literal": "C. Yang"
+      },
+      {
+        "literal": "X. Li"
+      },
+      {
+        "literal": "S. Chen"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "IEEE Robotics and Automation Letters (RA-L)",
+    "links": [
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1109/LRA.2022.3143297"
+      }
+    ]
+  },
+  {
+    "id": "2021-periodic-dmp-formulation-for-quaternion-trajectories",
+    "type": "article",
+    "title": "Periodic DMP Formulation for Quaternion Trajectories",
+    "author": [
+      {
+        "literal": "F. J. Abu-Dakka"
+      },
+      {
+        "literal": "M. Saveriano"
+      },
+      {
+        "literal": "L. Peternel"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "International Conference on Advanced Robotics (ICAR)",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/pdf/2110.10510.pdf"
+      },
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1109/ICAR53236.2021.9659319"
+      }
+    ]
+  },
+  {
+    "id": "2021-a-probabilistic-framework-for-learning-geometry-based-robot-manipulation",
+    "type": "article",
+    "title": "A Probabilistic Framework for Learning Geometry-Based Robot Manipulation Skills",
+    "author": [
+      {
+        "literal": "F. J. Abu-Dakka"
+      },
+      {
+        "literal": "Y. Huang"
+      },
+      {
+        "literal": "J. Silvério"
+      },
+      {
+        "literal": "V. Kyrki"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "Robotics and Autonomous Systems (RAS)",
+    "links": [
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1016/j.robot.2021.103761"
+      }
+    ]
+  },
+  {
+    "id": "2021-a-novel-soft-robotic-hand-design-with-human-inspired-soft-palm-achieving",
+    "type": "article",
+    "title": "A Novel Soft Robotic Hand Design with Human-Inspired Soft Palm: Achieving a Great Diversity of Grasps",
+    "author": [
+      {
+        "literal": "H. Wang"
+      },
+      {
+        "literal": "F. J. Abu-Dakka"
+      },
+      {
+        "literal": "T. N. Le"
+      },
+      {
+        "literal": "V. Kyrki"
+      },
+      {
+        "literal": "H. Xu"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "IEEE Robotics & Automation Magazine (RAM)",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/abs/2009.00979"
+      },
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1109/MRA.2021.3065870"
+      }
+    ]
+  },
+  {
+    "id": "2021-probabilistic-surface-friction-estimation-based-on-visual-and-haptic-mea",
+    "type": "article",
+    "title": "Probabilistic Surface Friction Estimation Based on Visual and Haptic Measurements",
+    "author": [
+      {
+        "literal": "T. N. Le"
+      },
+      {
+        "literal": "F. Verdoja"
+      },
+      {
+        "literal": "F. J. Abu-Dakka"
+      },
+      {
+        "literal": "V. Kyrki"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "IEEE Robotics and Automation Letters (RA-L)",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/abs/2010.08277"
+      },
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1109/LRA.2021.3062585"
+      }
+    ]
+  },
+  {
+    "id": "2021-imitation-learning-based-framework-for-learning-6-d-linear-compliant-mot",
+    "type": "article",
+    "title": "Imitation Learning-Based Framework for Learning 6-D Linear Compliant Motions",
+    "author": [
+      {
+        "literal": "M. Suomalainen"
+      },
+      {
+        "literal": "F. J. Abu-Dakka"
+      },
+      {
+        "literal": "V. Kyrki"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "Autonomous Robots (AURO)",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/abs/1809.01561"
+      },
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1007/s10514-021-09971-y"
+      }
+    ]
+  },
+  {
+    "id": "2021-toward-orientation-learning-and-adaptation-in-cartesian-space",
+    "type": "article",
+    "title": "Toward Orientation Learning and Adaptation in Cartesian Space",
+    "author": [
+      {
+        "literal": "Y. Huang"
+      },
+      {
+        "literal": "F. J. Abu-Dakka"
+      },
+      {
+        "literal": "J. Silvério"
+      },
+      {
+        "literal": "D. G. Caldwell"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "IEEE Transactions on Robotics (T-RO)",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/abs/1907.03918"
+      },
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1109/TRO.2020.3010633"
+      }
+    ]
+  },
+  {
+    "id": "2020-variable-impedance-control-and-learning-a-review",
+    "type": "article",
+    "title": "Variable Impedance Control and Learning — A Review",
+    "author": [
+      {
+        "literal": "F. Abu-Dakka"
+      },
+      {
+        "literal": "M. Saveriano"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "Frontiers in Robotics and AI",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/abs/2010.06246"
+      },
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.3389/frobt.2020.590681"
+      }
+    ]
+  },
+  {
+    "id": "2020-geometry-aware-dynamic-movement-primitives",
+    "type": "article",
+    "title": "Geometry-Aware Dynamic Movement Primitives",
+    "author": [
+      {
+        "literal": "F. J. Abu-Dakka"
+      },
+      {
+        "literal": "V. Kyrki"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "IEEE International Conference on Robotics and Automation (ICRA)",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/abs/2003.06061"
+      },
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1109/ICRA40945.2020.9196952"
+      }
+    ]
+  },
+  {
+    "id": "2020-passive-exercise-adaptation-for-ankle-rehabilitation-based-on-a-learning",
+    "type": "article",
+    "title": "Passive Exercise Adaptation for Ankle Rehabilitation Based on Learning Control Framework",
+    "author": [
+      {
+        "literal": "F. J. Abu-Dakka"
+      },
+      {
+        "literal": "A. Valera"
+      },
+      {
+        "literal": "J. A. Escalera"
+      },
+      {
+        "literal": "M. Abderrahim"
+      },
+      {
+        "literal": "A. Page"
+      },
+      {
+        "literal": "V. Mata"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "Sensors",
+    "links": [
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.3390/s20216215"
+      }
+    ]
+  },
+  {
+    "id": "2020-development-of-lower-limb-rehabilitation-exercises-using-3-prs-parallel-",
+    "type": "article",
+    "title": "Development of Lower-Limb Rehabilitation Exercises Using 3-PRS Parallel Robot and Dynamic Movement Primitives",
+    "author": [
+      {
+        "literal": "R. J. Escarabajal"
+      },
+      {
+        "literal": "F. J. Abu-Dakka"
+      },
+      {
+        "literal": "J. L. Pulloquinga"
+      },
+      {
+        "literal": "V. Mata"
+      },
+      {
+        "literal": "M. Vallés"
+      },
+      {
+        "literal": "Á. Valera"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "Multidisciplinary Journal for Education, Social and Technological Sciences (MUSE)",
+    "links": [
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.4995/muse.2020.13907"
+      }
+    ]
+  },
+  {
+    "id": "2026-formal-methods-manipulation-survey",
+    "type": "article",
+    "title": "Formal Methods for Robotic Manipulation: A Survey",
+    "author": [
+      {
+        "literal": "Yancheng Zhu"
+      },
+      {
+        "literal": "Ashok Kumar"
+      },
+      {
+        "literal": "Hugo Tadashi Kussaba"
+      },
+      {
+        "literal": "Wenliang Liu"
+      },
+      {
+        "literal": "Fares Abu-Dakka"
+      },
+      {
+        "literal": "Abdalla Swikir"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "status": "preprint",
+    "display-venue": "HAL preprint \u2014 not yet peer-reviewed",
+    "links": [
+      {
+        "label": "HAL",
+        "URL": "https://hal.science/hal-05533865v1"
+      }
+    ],
+    "archive": "HAL",
+    "archive_location": "hal-05533865v1"
+  },
+  {
+    "id": "2026-csymplan",
+    "type": "article",
+    "title": "CSymPlan: Certified Symbolic Planning and Control for High-DOF Manipulators",
+    "author": [
+      {
+        "literal": "Aditya Narendra"
+      },
+      {
+        "literal": "Ashok Kumar Saini"
+      },
+      {
+        "literal": "Mahathi Anand"
+      },
+      {
+        "literal": "Mahmoud Khaled"
+      },
+      {
+        "literal": "Fares J. Abu-Dakka"
+      },
+      {
+        "literal": "Abdalla Swikir"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "status": "preprint",
+    "display-venue": "arXiv preprint \u2014 not yet peer-reviewed",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/abs/2608.22983"
+      }
+    ],
+    "archive": "arXiv",
+    "archive_location": "2608.22983"
+  },
+  {
+    "id": "2026-g3vla",
+    "type": "article",
+    "title": "G³VLA: Geometric inductive bias for Vision-Language-Action Models",
+    "author": [
+      {
+        "literal": "Yue Peng"
+      },
+      {
+        "literal": "Yongzhe Zhao"
+      },
+      {
+        "literal": "Artur Habuda"
+      },
+      {
+        "literal": "Khuyen Pham"
+      },
+      {
+        "literal": "Yanheng Zhu"
+      },
+      {
+        "literal": "Tran Nguyen Le"
+      },
+      {
+        "literal": "Fares Abu-Dakka"
+      },
+      {
+        "literal": "Li Guo"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "status": "preprint",
+    "display-venue": "arXiv preprint — not yet peer-reviewed",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/abs/2606.24472"
+      }
+    ],
+    "archive": "arXiv",
+    "archive_location": "2606.24472"
+  },
+  {
+    "id": "2025-snmode",
+    "type": "article",
+    "title": "Stable Robot Motions on Manifolds: Learning Lyapunov-Constrained Neural Manifold ODEs",
+    "author": [
+      {
+        "literal": "David Boetius"
+      },
+      {
+        "literal": "Abdelrahman Abdelnaby"
+      },
+      {
+        "literal": "Ashok Kumar"
+      },
+      {
+        "literal": "Stefan Leue"
+      },
+      {
+        "literal": "Abdalla Swikir"
+      },
+      {
+        "literal": "Fares J. Abu-Dakka"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "status": "preprint",
+    "display-venue": "arXiv preprint — not yet peer-reviewed",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/abs/2510.05707"
+      }
+    ],
+    "archive": "arXiv",
+    "archive_location": "2510.05707"
+  }
+]

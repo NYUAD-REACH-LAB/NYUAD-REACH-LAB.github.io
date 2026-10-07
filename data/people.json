@@ -1,0 +1,100 @@
+{
+  "groups": [
+    {"key": "postdoc", "heading": "Postdoctoral researchers", "role": "Postdoctoral researcher", "one": "postdoctoral researcher", "many": "postdoctoral researchers"},
+    {"key": "phd", "heading": "PhD students", "role": "PhD student", "one": "PhD student", "many": "PhD students"},
+    {"key": "undergrad", "heading": "Undergraduate researchers", "role": "Undergraduate researcher", "one": "undergraduate researcher", "many": "undergraduate researchers"}
+  ],
+  "members": [
+    {
+      "id": "hozefa-jesawada",
+      "name": "Hozefa Jesawada",
+      "group": "postdoc",
+      "since": 2025,
+      "fields": [6, 2, 5, 1],
+      "links": {"scholar": "https://scholar.google.com/citations?user=5vdqS3AAAAAJ", "orcid": "https://orcid.org/0000-0003-4212-2826", "linkedin": "https://www.linkedin.com/in/hozefa-jesawada-729014161/"},
+      "topic": "The research covers safe learning-based control for soft and continuum robots. It also develops Grassmannian methods for null-space control.",
+      "bio": [
+        "Hozefa Jesawada is a Postdoctoral Researcher at New York University Abu Dhabi. He earned his PhD in Information Technologies for Engineering from the University of Sannio, Italy, and subsequently worked as a postdoctoral researcher at the University of Salerno. His research focuses on reliable decision-making and control for robotics, combining tools from optimization, uncertainty-aware learning, inverse optimal control, and robust planning.",
+        "He is particularly interested in how principled learning methods can support embodied intelligence in real robotic systems, including manipulation, model-based formal control, and safety-aware autonomy."
+      ]
+    },
+    {
+      "id": "nilay-kushawaha",
+      "name": "Nilay Kushawaha",
+      "group": "postdoc",
+      "since": 2026,
+      "fields": [3],
+      "links": {"scholar": "https://scholar.google.com/citations?user=hNe2U7UAAAAJ", "linkedin": "https://www.linkedin.com/in/nilaykush/"},
+      "topic": "The research focuses on continual learning for robot manipulation. It also studies cross-embodiment transfer, so that skills carry over between different robots.",
+      "bio": [
+        "Nilay Kushawaha is a Postdoctoral Associate at NYU Abu Dhabi, with a Ph.D. in Biorobotics and AI from the Scuola Superiore Sant'Anna, Italy.",
+        "His research focuses on continual learning, brain-inspired AI, and adaptive robot control. He develops algorithms that let robots keep learning and adapting across their lifetime, the way humans do. His work spans both soft and rigid robotic systems, combining machine learning, robotics, and physics to build more intelligent and autonomous robots.",
+        "Keywords: Continual Learning, Incremental Learning, Learning from Demonstrations, Reinforcement Learning, Soft & Rigid Robotics, Sensor Fusion."
+      ]
+    },
+    {
+      "id": "ikhlas-ben-hmida",
+      "name": "Ikhlas Ben Hmida",
+      "group": "phd",
+      "since": 2024,
+      "fields": [5, 7, 1],
+      "links": {"scholar": "https://scholar.google.com/citations?user=5wNH6q8AAAAJ", "linkedin": "https://www.linkedin.com/in/ikhlas-ben-hmida-4b9108104"},
+      "topic": "The research covers the modelling and design of a soft prosthetic hand. It also explores data-driven decoding of hand and finger motion from surface electromyography.",
+      "bio": [
+        "Ikhlas Ben Hmida is a Global Ph.D. fellow from NYU Tandon School of Engineering and a visiting graduate research assistant at the REACH Lab at NYUAD, where she is conducting her PhD research.",
+        "Her research interests include soft robotics, bio-inspired systems, and medical applications of robotics. She is currently exploring data-driven approaches to decoding hand and finger motion from surface electromyography (sEMG) to advance human-machine interfaces and dexterous prosthetic and assistive hands."
+      ]
+    },
+    {
+      "id": "dean-pretorius",
+      "name": "Dean Pretorius",
+      "group": "phd",
+      "since": 2026,
+      "fields": [2],
+      "links": {"linkedin": "https://www.linkedin.com/in/deanpretorius/"},
+      "topic": "The research applies Koopman-operator methods to nonlinear dynamics. It focuses on systems with switching and contact.",
+      "bio": [
+        "Dean Pretorius is a student of the PhD in Astrophysics and Space Systems (PASS) program at NYUAD. His research interests are in understanding how robots adapt to discontinuous movements in the real world. During his PhD, he will be pushing the boundaries of science and engineering to understand how robots adapt to discontinuous movements in space.",
+        "In 2022, Dean graduated from Stellenbosch University in South Africa with a B.Eng in Electrical and Electronic Engineering."
+      ]
+    },
+    {
+      "id": "omar-mostafa",
+      "name": "Omar Mostafa",
+      "group": "phd",
+      "since": 2026,
+      "fields": [2, 1, 3],
+      "links": {"scholar": "https://scholar.google.com/citations?user=VzHMIyoAAAAJ", "linkedin": "https://www.linkedin.com/in/omar-mostafa-0633371b6/"},
+      "topic": "The research is on stable robot learning, including stable dynamical-systems control. It also covers vision-language-guided policy learning and simulation environments for manipulation.",
+      "bio": [
+        "Omar Mostafa is a Global PhD student in Electrical and Computer Engineering. His research interests are robot learning and control, with a focus on physics-informed reinforcement learning and world models for robotic manipulation.",
+        "Previously: Graduated magna cum laude from NYU Abu Dhabi with a bachelor’s degree in Electrical Engineering."
+      ]
+    },
+    {
+      "id": "narayana-reddy-marthala",
+      "name": "Narayana Reddy Marthala",
+      "group": "phd",
+      "since": 2026,
+      "fields": [2, 1],
+      "topic": "The research covers contact control for space robots. The robots studied are dual-arm and free-floating."
+    },
+    {
+      "id": "aman-sunesh",
+      "name": "Aman Sunesh",
+      "group": "undergrad",
+      "since": 2026,
+      "fields": [],
+      "links": {"linkedin": "https://www.linkedin.com/in/aman-sunesh/"},
+      "topic": "The research is on robot manipulation with a collaborative arm. It covers object retrieval and handover."
+    }
+  ],
+  "alumni": [
+    {
+      "id": "costanza-armanini",
+      "name": "Costanza Armanini",
+      "group": "postdoc",
+      "until": 2026
+    }
+  ]
+}

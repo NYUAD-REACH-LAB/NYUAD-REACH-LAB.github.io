@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "number": 1,
+      "slug": "geometric",
+      "title": "Geometric and Riemannian robot learning",
+      "summary": "Learning and control are formulated directly on manifolds and Lie groups, not on flattened approximations of them. This keeps what a robot learns consistent with the structure of the space it moves in.",
+      "body": "Orientations, stiffness matrices and robot configurations are not flat vectors — they carry curvature and constraints. We formulate learning and control directly on these manifolds, so that generalization respects the structure of the space instead of working around it.",
+      "art_label": "A sphere with a geodesic between two points, a tangent plane at the start and tangent vectors carried along the path."
+    },
+    {
+      "number": 2,
+      "slug": "safe-control",
+      "title": "Safe and certifiable learning-based control",
+      "summary": "We establish stability and safety guarantees for robot behaviour. These guarantees still hold when the components producing the behaviour were learned from data rather than designed.",
+      "body": "A controller that usually works is not the same as one that provably will not fail. We establish stability and safety guarantees that still hold when the components producing the behaviour were learned from data rather than designed.",
+      "art_label": "Nested level curves of a bowl seen from above, a trajectory spiralling inward to the equilibrium, and a hatched forbidden region the path bends away from."
+    },
+    {
+      "number": 3,
+      "slug": "demonstration",
+      "title": "Learning from demonstration and physical interaction",
+      "summary": "Robots acquire skills from human demonstration or from their own exploration. These skills then transfer across objects, goals and embodiments.",
+      "body": "A robot has to come to have a skill in the first place. It can be shown by a person, or discovered through its own exploration and contact with the world. The skill must then survive the move to new objects, new goals and different bodies.",
+      "art_label": "Several thin demonstrated paths inside a shaded variance band converging into one bold reproduced motion, with a guiding arrow at the start and a target at the goal."
+    },
+    {
+      "number": 4,
+      "slug": "contact-rich",
+      "title": "Compliant and contact-rich manipulation",
+      "summary": "We regulate force and impedance in tasks defined by contact. The aim is to keep the robot stable and safe while it touches an object or a person.",
+      "body": "Most useful tasks are defined by contact rather than free motion. We regulate force and impedance for assembly, insertion, tool use and the handling of deformable objects. The aim is to keep the robot stable and safe while it touches something, or someone.",
+      "art_label": "A fingertip pressing into a surface that dents under it, a contact force arrow, and a spring and damper above the finger for impedance."
+    },
+    {
+      "number": 5,
+      "slug": "soft-robotics",
+      "title": "Soft and continuum robotics",
+      "summary": "We model, simulate and control bodies whose compliance is structural rather than commanded. Their very many degrees of freedom put them out of reach of classical rigid-body methods.",
+      "body": "Robots whose compliance lives in the body rather than in the controller. We model, simulate and control continuum structures whose effectively infinite degrees of freedom put them out of reach of classical rigid-body methods.",
+      "art_label": "A tapered continuum arm rising from its base and wrapping around a round object, drawn as a backbone curve with cross-section rings."
+    },
+    {
+      "number": 6,
+      "slug": "uncertainty",
+      "title": "Decision-making under uncertainty",
+      "summary": "We use free-energy and active-inference formulations to treat exploration and robustness as one problem. This lets a robot act well without an exact model of the world.",
+      "body": "Acting well without an exact model of the world. Free-energy and active-inference formulations that treat exploration and robustness as two faces of one problem rather than as competing objectives to be traded off.",
+      "art_label": "A fan of candidate paths leaving one point, each inside a widening cone of uncertainty, with one bold chosen branch."
+    },
+    {
+      "number": 7,
+      "slug": "neural-interfaces",
+      "title": "Neural interfaces and assistive robotics",
+      "summary": "We decode human intent from muscle and brain activity. We then close the loop through prosthetic and wearable devices that respond to it.",
+      "body": "Reading human intent from biological signals — muscle and brain activity — and closing the loop through prosthetic and wearable devices that respond to it, including the sensory feedback that makes them feel like part of the body.",
+      "art_label": "A muscle signal recorded on a forearm flows into a robotic hand whose fingers flex, and a dashed arrow returns from the hand to the arm, closing the loop."
+    }
+  ]
+}

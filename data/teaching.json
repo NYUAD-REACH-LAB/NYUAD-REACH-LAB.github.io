@@ -1,0 +1,17 @@
+{
+  "lede": "Courses taught by REACH Lab faculty at NYU Abu Dhabi.",
+  "courses": [
+    {
+      "title": "Mechatronics",
+      "code": "ENGR-UH 4140 / 4145",
+      "level": "BSc",
+      "text": "An undergraduate course on mechatronic systems, bringing mechanical design, sensing, actuation and embedded control together into working robotic and automated devices, taught by Fares Abu-Dakka."
+    },
+    {
+      "title": "Space Robotics",
+      "code": "APHY-GH 7064",
+      "level": "PhD elective",
+      "text": "A PhD elective in the NYUAD Astrophysics and Space Systems programme, introducing the robotics and autonomous systems used in space exploration and operations."
+    }
+  ]
+}

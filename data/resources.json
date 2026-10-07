@@ -1,0 +1,36 @@
+{
+  "groups": [
+    {
+      "heading": "Robots",
+      "items": [
+        {"name": "Franka Research 3", "text": "Torque-controlled collaborative arm for manipulation experiments, with a matching simulation model."},
+        {"name": "Clearpath Husky", "text": "Unmanned ground vehicle for mobile manipulation."},
+        {"name": "NAO", "text": "Small humanoid robot used for demonstrations."},
+        {"name": "Hiwonder platform", "text": "Raspberry Pi–based robot platform used in mechatronics teaching."}
+      ]
+    },
+    {
+      "heading": "Sensing and interfaces",
+      "items": [
+        {"name": "OptiTrack", "text": "Optical motion-capture system."},
+        {"name": "Intel RealSense", "text": "Depth cameras for perception and fiducial-marker tracking."},
+        {"name": "Delsys EMG", "text": "Surface electromyography system for myoelectric data collection."},
+        {"name": "Leap Motion", "text": "Optical hand and finger tracking."}
+      ]
+    },
+    {
+      "heading": "Fabrication",
+      "items": [
+        {"name": "3D printers", "text": "Printing of moulds and fixtures for soft hands."},
+        {"name": "Tendon-driven actuation", "text": "Servo motors, spools and tendons for actuating soft hands."}
+      ]
+    },
+    {
+      "heading": "Compute",
+      "items": [
+        {"name": "GPU workstation", "text": "The lab's main machine for training learning-based controllers."},
+        {"name": "Lab server", "text": "Remote-access server for simulation and training."}
+      ]
+    }
+  ]
+}
