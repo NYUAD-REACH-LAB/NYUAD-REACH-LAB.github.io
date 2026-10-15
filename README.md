@@ -15,7 +15,7 @@ palette, the artwork and the tone are specified in [`DESIGN.md`](DESIGN.md).
 | Pages source | branch `main`, folder `/` (root) |
 | Address | https://nyuad-reach-lab.github.io |
 | First push | by Fares's git-setup prompt |
-| Changes | reach `main` only through pull requests that Fares merges; nothing is pushed to `main` directly |
+| Changes | Fares commits and pushes them straight to `main` |
 
 Every link and asset path is relative (none starts with `/`), so the same files work under a
 sub-path or on a custom domain.
@@ -175,10 +175,9 @@ regenerate the four derivatives the same way; `build.py` only copies them.
 
 ## Updating
 
-Content changes are made in `data/`, then `python3 build.py`, then a pull request. The weekly update
-routine and the rules for what may be published live with the lab's records
-(`playbooks/website.md` in the records folder); the routine's prompt, `UPDATE-PROMPT.md`, is kept
-beside this README on disk but not in the repository.
+Content changes are made in `data/`, then `python3 build.py`, then commit and push to `main`. The
+weekly update routine (`site-sync`), its prompt and the rules for what may be published live with
+the lab's records (`playbooks/website.md` in the records folder).
 
 ## Known limits
 
