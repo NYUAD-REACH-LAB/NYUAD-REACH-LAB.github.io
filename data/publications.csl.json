@@ -1,5 +1,106 @@
 [
   {
+    "id": "2021-towards-synthesizing-grasps-for-3d-deformable-objects",
+    "type": "article",
+    "title": "Towards synthesizing grasps for 3D deformable objects with physics-based simulation",
+    "author": [
+      {
+        "literal": "Tran Nguyen Le"
+      },
+      {
+        "literal": "Jens Lundell"
+      },
+      {
+        "literal": "Fares J. Abu-Dakka"
+      },
+      {
+        "literal": "Ville Kyrki"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "status": "preprint",
+    "display-venue": "arXiv preprint — not yet peer-reviewed",
+    "links": [
+      {
+        "label": "arXiv",
+        "URL": "https://arxiv.org/abs/2107.08898"
+      }
+    ],
+    "archive": "arXiv",
+    "archive_location": "2107.08898"
+  },
+  {
+    "id": "2023-reinforcement-learning-for-orientation-on-the-lie-algebra",
+    "type": "article",
+    "title": "Reinforcement Learning for Orientation on the Lie Algebra",
+    "author": [
+      {
+        "literal": "Naseem Alhousani"
+      },
+      {
+        "literal": "Hatice Kose"
+      },
+      {
+        "literal": "Fares J. Abu-Dakka"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "31st IEEE Conference on Signal Processing and Communications Applications (SIU 2023)",
+    "links": [
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1109/SIU59756.2023.10224004"
+      }
+    ]
+  },
+  {
+    "id": "2022-editorial-variable-impedance-control-and-learning",
+    "type": "article",
+    "title": "Editorial Variable Impedance Control and Learning in Complex Interaction Scenarios: Challenges and Opportunities",
+    "author": [
+      {
+        "literal": "Fares J. Abu-Dakka"
+      },
+      {
+        "literal": "Matteo Saveriano"
+      },
+      {
+        "literal": "Meghan E. Huber"
+      },
+      {
+        "literal": "Thiago Boaventura"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "status": "published",
+    "display-venue": "IEEE Robotics and Automation Letters (RA-L), vol. 7, no. 4, pp. 12158–12160",
+    "links": [
+      {
+        "label": "DOI",
+        "URL": "https://doi.org/10.1109/LRA.2022.3213197"
+      }
+    ]
+  },
+  {
     "id": "2026-safe-and-stable-neural-network-dynamical-systems-for-robot-motion-planni",
     "type": "article",
     "title": "Safe and Stable Neural Network Dynamical Systems for Robot Motion Planning",
